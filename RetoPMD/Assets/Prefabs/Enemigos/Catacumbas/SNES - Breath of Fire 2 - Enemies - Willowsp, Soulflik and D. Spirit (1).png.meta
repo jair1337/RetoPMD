@@ -1,0 +1,4981 @@
+fileFormatVersion: 2
+guid: 385cebf409107ab45a2f6bcd9af7c3ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 394476917664940036
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_0
+  - first:
+      213: -6012186879061372961
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_1
+  - first:
+      213: -8167372172473041472
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_2
+  - first:
+      213: 2909355689794456317
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_3
+  - first:
+      213: 241198717667586518
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_4
+  - first:
+      213: -5272382779669834491
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_5
+  - first:
+      213: 6834233293580767970
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_6
+  - first:
+      213: -1456847109864917422
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_7
+  - first:
+      213: -8948996126927121537
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_8
+  - first:
+      213: 3735447866629752668
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_9
+  - first:
+      213: -1265037583366657347
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_10
+  - first:
+      213: 3216223387456887192
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_11
+  - first:
+      213: -264737730506255903
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_12
+  - first:
+      213: 96940942419668386
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_13
+  - first:
+      213: 356227812986897779
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_14
+  - first:
+      213: 8398586076689270181
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_15
+  - first:
+      213: -5874264929914494582
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_16
+  - first:
+      213: 3057485823041532117
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_17
+  - first:
+      213: 1183062982676722217
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_18
+  - first:
+      213: 151151045127987140
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_19
+  - first:
+      213: -7315029034177004567
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_20
+  - first:
+      213: 5195976218884843493
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_21
+  - first:
+      213: -4826213742283450431
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_22
+  - first:
+      213: -7219839675122019723
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_23
+  - first:
+      213: 6296049244643990208
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_24
+  - first:
+      213: 7393765183609347902
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_25
+  - first:
+      213: 3099190414950242394
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_26
+  - first:
+      213: 1470558482651126679
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_27
+  - first:
+      213: 3210099263600540454
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_28
+  - first:
+      213: -7028230363393153126
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_29
+  - first:
+      213: 1499768551777906780
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_30
+  - first:
+      213: -3339011551466747000
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_31
+  - first:
+      213: -9047546694371533731
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_32
+  - first:
+      213: 98770470139954637
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_33
+  - first:
+      213: 2517887071669093968
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_34
+  - first:
+      213: -5919863844470965350
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_35
+  - first:
+      213: 8072674851495103763
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_36
+  - first:
+      213: -3946478602368616369
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_37
+  - first:
+      213: 6616684568893714680
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_38
+  - first:
+      213: 8560566043455247270
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_39
+  - first:
+      213: -7203518949482889318
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_40
+  - first:
+      213: -7750279864290911879
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_41
+  - first:
+      213: -3582785831335773334
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_42
+  - first:
+      213: -6716665765258485957
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_43
+  - first:
+      213: -5419202449437659533
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_44
+  - first:
+      213: 6886329424197103733
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_45
+  - first:
+      213: -5954643398053536948
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_46
+  - first:
+      213: -972879672696389552
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_47
+  - first:
+      213: 7702261200020315395
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_48
+  - first:
+      213: 3504488823799924365
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_49
+  - first:
+      213: 6535270247384231650
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_50
+  - first:
+      213: -1523321094503848837
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_51
+  - first:
+      213: 5587790839351773718
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_52
+  - first:
+      213: -3004999609078607352
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_53
+  - first:
+      213: 7728244301975489629
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_54
+  - first:
+      213: 1282380553682347028
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_55
+  - first:
+      213: -3140098881454678791
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_56
+  - first:
+      213: -3047222768658724205
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_57
+  - first:
+      213: 6249651800251166158
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_58
+  - first:
+      213: 1007448786646576357
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_59
+  - first:
+      213: 5389998499627798690
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_60
+  - first:
+      213: -3342535905839600877
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_61
+  - first:
+      213: 8162056112638306185
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_62
+  - first:
+      213: 1669417947543430523
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_63
+  - first:
+      213: -5675402252831765221
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_64
+  - first:
+      213: -7695255310728602681
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_65
+  - first:
+      213: 7296687629705338855
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_66
+  - first:
+      213: -1395799644183103297
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_67
+  - first:
+      213: 7116973050743387852
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_68
+  - first:
+      213: 4304360164256059274
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_69
+  - first:
+      213: 3168997382618574395
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_70
+  - first:
+      213: 4583203926705927071
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_71
+  - first:
+      213: -3411026559860592346
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_72
+  - first:
+      213: 3297596604556766565
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_73
+  - first:
+      213: 2834742225631275109
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_74
+  - first:
+      213: -1231406199651709912
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_75
+  - first:
+      213: 3586292491813145166
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_76
+  - first:
+      213: -2964837104419484817
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_77
+  - first:
+      213: 8171514456020072958
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_78
+  - first:
+      213: 8260384034396872886
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_79
+  - first:
+      213: 1016282081605242590
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_80
+  - first:
+      213: -8748665011079473384
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_81
+  - first:
+      213: 3792744435325907270
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_82
+  - first:
+      213: -8886016476825537041
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_83
+  - first:
+      213: -5940453521289776474
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_84
+  - first:
+      213: -584820708186427319
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_85
+  - first:
+      213: 58490552446749167
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_86
+  - first:
+      213: 1337102821780776991
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_87
+  - first:
+      213: -2425242333651541722
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_88
+  - first:
+      213: -1205335663837570753
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_89
+  - first:
+      213: -5475758678227726172
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_90
+  - first:
+      213: 2947495983685891640
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_91
+  - first:
+      213: -4927608229839740013
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_92
+  - first:
+      213: -9151962696184202874
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_93
+  - first:
+      213: -6092503132918088790
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_94
+  - first:
+      213: 4986629164493430152
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_95
+  - first:
+      213: -8852333666169624655
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_96
+  - first:
+      213: 7461192522007538633
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_97
+  - first:
+      213: 4321664723564340627
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_98
+  - first:
+      213: 6502071616746239726
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_99
+  - first:
+      213: -2233437624793650663
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_100
+  - first:
+      213: 7088870638080560963
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_101
+  - first:
+      213: -7823309293765959383
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_102
+  - first:
+      213: -6998744554525003309
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_103
+  - first:
+      213: -5677191817532481640
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_104
+  - first:
+      213: -2460694039498610289
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_105
+  - first:
+      213: -6167851610765317
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_106
+  - first:
+      213: 5252054403262917937
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_107
+  - first:
+      213: 1918237387877080506
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_108
+  - first:
+      213: -3737203429973253623
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_109
+  - first:
+      213: 4467277053904168025
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_110
+  - first:
+      213: 3494806077834401672
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_111
+  - first:
+      213: 6717132987244799535
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_112
+  - first:
+      213: 5885944533994517867
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_113
+  - first:
+      213: -2477268417447305084
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_114
+  - first:
+      213: 3539063931178908767
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_115
+  - first:
+      213: -8935260826192051297
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_116
+  - first:
+      213: 2992575091429484164
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_117
+  - first:
+      213: -1196855596144803547
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_118
+  - first:
+      213: 8056286818585632474
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_119
+  - first:
+      213: 857862522699460270
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_120
+  - first:
+      213: -6911728946162862063
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_121
+  - first:
+      213: -8339744692721392741
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_122
+  - first:
+      213: -7053034865117635053
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_123
+  - first:
+      213: -2123851401684209338
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_124
+  - first:
+      213: -7104800950529088192
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_125
+  - first:
+      213: 8699434156334180527
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_126
+  - first:
+      213: -4853029956347754709
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_127
+  - first:
+      213: 2620550937785017168
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_128
+  - first:
+      213: 4409602042498819597
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_129
+  - first:
+      213: 5521926772897747871
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_130
+  - first:
+      213: 8359571929495583803
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_131
+  - first:
+      213: -8516229949261744086
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_132
+  - first:
+      213: 659551783845732842
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_133
+  - first:
+      213: -7256874559402537161
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_134
+  - first:
+      213: -4700873959832975014
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_135
+  - first:
+      213: 3469951725854329383
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_136
+  - first:
+      213: -1799461943009000041
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_137
+  - first:
+      213: -7977338338378250419
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_138
+  - first:
+      213: -5303673358738710965
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_139
+  - first:
+      213: -4854355486584303883
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_140
+  - first:
+      213: -4853390492960460216
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_141
+  - first:
+      213: 1947918679400343536
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_142
+  - first:
+      213: 3975528350892359354
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_143
+  - first:
+      213: -3569387933027185607
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_144
+  - first:
+      213: -1115808572463385976
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_145
+  - first:
+      213: 7833517587319549530
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_146
+  - first:
+      213: -57495758366402832
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_147
+  - first:
+      213: 1071573102100073786
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_148
+  - first:
+      213: 2835187241055870153
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_149
+  - first:
+      213: 2653953105458978005
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_150
+  - first:
+      213: -7445044890740686516
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_151
+  - first:
+      213: 1051196769007654023
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_152
+  - first:
+      213: -3601222365650924191
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_153
+  - first:
+      213: 2219804524591417305
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_154
+  - first:
+      213: -4984643986144778173
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_155
+  - first:
+      213: 5289437702036328839
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_156
+  - first:
+      213: 8648077410515158113
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_157
+  - first:
+      213: 56039100238281759
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_158
+  - first:
+      213: -4318194773316795621
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_159
+  - first:
+      213: 6611764549168428693
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_160
+  - first:
+      213: -4288280265880503364
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_161
+  - first:
+      213: -7281137718907354525
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_162
+  - first:
+      213: 9130595387871784617
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_163
+  - first:
+      213: -1530175182487202575
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_164
+  - first:
+      213: 1843051949313266151
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_165
+  - first:
+      213: 910692363435590598
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_166
+  - first:
+      213: 2176549096610367807
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_167
+  - first:
+      213: -5165204383798199246
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_168
+  - first:
+      213: 1088516889020839040
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_169
+  - first:
+      213: 2387117848072140354
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_170
+  - first:
+      213: -8204738358060155130
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_171
+  - first:
+      213: -3478198550476360097
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_172
+  - first:
+      213: -3503218545256687330
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_173
+  - first:
+      213: -4016275742330359959
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_174
+  - first:
+      213: 7960372824494809328
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_175
+  - first:
+      213: -4891521477225307758
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_176
+  - first:
+      213: -1256576684752682808
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_177
+  - first:
+      213: -2031581054991185647
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_178
+  - first:
+      213: 3335424870682508262
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_179
+  - first:
+      213: 232608482625762026
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_180
+  - first:
+      213: -7956430673428586390
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_181
+  - first:
+      213: -9028521822948935376
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_182
+  - first:
+      213: -8903991236325375182
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_183
+  - first:
+      213: -2570699897498413251
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_184
+  - first:
+      213: 8814619944761211145
+    second: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_185
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 930
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4008285aaa6797500800000000000000
+      internalID: 394476917664940036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 932
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf484e23eb609ca0800000000000000
+      internalID: -6012186879061372961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 931
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd755f184aa7ae80800000000000000
+      internalID: -8167372172473041472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 931
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfac57fd59b106820800000000000000
+      internalID: 2909355689794456317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 947
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d13bdea4f8e85300800000000000000
+      internalID: 241198717667586518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 932
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50594e1dbcbb4d6b0800000000000000
+      internalID: -5272382779669834491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 930
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e29700a8f218de50800000000000000
+      internalID: 6834233293580767970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 948
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2567274b54d38cbe0800000000000000
+      internalID: -1456847109864917422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 933
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f739926bf67cec380800000000000000
+      internalID: -8948996126927121537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 928
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57057f1b0af6d330800000000000000
+      internalID: 3735447866629752668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 929
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba69e7350fa17ee0800000000000000
+      internalID: -1265037583366657347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 933
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899dbaf612252ac20800000000000000
+      internalID: 3216223387456887192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 928
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1188ecf66735cf0800000000000000
+      internalID: -264737730506255903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 929
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adad150647685100800000000000000
+      internalID: 96940942419668386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 914
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375c23cfe4391f400800000000000000
+      internalID: 356227812986897779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 914
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a50b940a85cd8470800000000000000
+      internalID: 8398586076689270181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 914
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8169ef5b2b6a7ea0800000000000000
+      internalID: -5874264929914494582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_17
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 914
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0fe24282f5e6a20800000000000000
+      internalID: 3057485823041532117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 833
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9223c5db3851b6010800000000000000
+      internalID: 1183062982676722217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 866
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf5840231ff81200800000000000000
+      internalID: 151151045127987140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 874
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebf530a9dbcb7a90800000000000000
+      internalID: -7315029034177004567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 867
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7220477d0db1840800000000000000
+      internalID: 5195976218884843493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 869
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c71619fb28d50db0800000000000000
+      internalID: -4826213742283450431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 873
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572941d511afdcb90800000000000000
+      internalID: -7219839675122019723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 871
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca1f5b1e6f006750800000000000000
+      internalID: 6296049244643990208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 875
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f9fa9b24eeb9660800000000000000
+      internalID: 7393765183609347902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 838
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58976e1349820b20800000000000000
+      internalID: 3099190414950242394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 864
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b9bdb0629786410800000000000000
+      internalID: 1470558482651126679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_28
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 865
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b37acb5409c8c20800000000000000
+      internalID: 3210099263600540454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 840
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97265eb8b5b67e90800000000000000
+      internalID: -7028230363393153126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 836
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50360e3d8f30d410800000000000000
+      internalID: 1499768551777906780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_31
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 855
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b06ed4fa279a1d0800000000000000
+      internalID: -3339011551466747000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 841
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c9939a738a07280800000000000000
+      internalID: -9047546694371533731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 838
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc58df22837ee5100800000000000000
+      internalID: 98770470139954637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_34
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 856
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056826b83f451f220800000000000000
+      internalID: 2517887071669093968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 836
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b31afb23b68dda0800000000000000
+      internalID: -5919863844470965350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 822
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d489ea107e70070800000000000000
+      internalID: 8072674851495103763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 822
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f487328de9a4b39c0800000000000000
+      internalID: -3946478602368616369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 822
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0f7b70f8f23db50800000000000000
+      internalID: 6616684568893714680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 822
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3db60f57d3dc670800000000000000
+      internalID: 8560566043455247270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 822
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ff64b6ea5f70c90800000000000000
+      internalID: -7203518949482889318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_41
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 822
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979d313b689717490800000000000000
+      internalID: -7750279864290911879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 822
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bbde0d443674ec0800000000000000
+      internalID: -3582785831335773334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_43
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 822
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f9dbaa21c99c2a0800000000000000
+      internalID: -6716665765258485957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 770
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e675b95102bc4b0800000000000000
+      internalID: -5419202449437659533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_45
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 773
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570b69f3028219f50800000000000000
+      internalID: 6886329424197103733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_46
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 792
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bd4e6e06bdc5da0800000000000000
+      internalID: -5954643398053536948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 778
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050cbbb9713af72f0800000000000000
+      internalID: -972879672696389552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_48
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 775
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d1c7ac0cde3ea60800000000000000
+      internalID: 7702261200020315395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_49
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 793
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86cbe5840272a030800000000000000
+      internalID: 3504488823799924365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 759
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee24862aa1f1ba50800000000000000
+      internalID: 6535270247384231650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 759
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b742d3319831cdae0800000000000000
+      internalID: -1523321094503848837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 759
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a8ebab922db8d40800000000000000
+      internalID: 5587790839351773718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 736
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8029ea6d6c81c46d0800000000000000
+      internalID: -3004999609078607352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_54
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 716
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c8fa42f3d304b60800000000000000
+      internalID: 7728244301975489629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_55
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 668
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414ea19b15eebc110800000000000000
+      internalID: 1282380553682347028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_56
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 670
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcda4b44b02c64d0800000000000000
+      internalID: -3140098881454678791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_57
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 669
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a4d9a690716b5d0800000000000000
+      internalID: -3047222768658724205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_58
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 669
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecde9d343393bb650800000000000000
+      internalID: 6249651800251166158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_59
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 685
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eca771755d2bfd00800000000000000
+      internalID: 1007448786646576357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_60
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 670
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a01436f31f1dca40800000000000000
+      internalID: 5389998499627798690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_61
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 668
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b217b9d4dec91d0800000000000000
+      internalID: -3342535905839600877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_62
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 686
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987ac9e3ac2754170800000000000000
+      internalID: 8162056112638306185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_63
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 671
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75ecf047c6fa2710800000000000000
+      internalID: 1669417947543430523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_64
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 666
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dc28a78bbec31b0800000000000000
+      internalID: -5675402252831765221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_65
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 667
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb551ce016f43590800000000000000
+      internalID: -7695255310728602681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 671
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efd29d5dba034560800000000000000
+      internalID: 7296687629705338855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_67
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 666
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb879de6e9f11ace0800000000000000
+      internalID: -1395799644183103297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_68
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 667
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc67695484194c260800000000000000
+      internalID: 7116973050743387852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_69
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 652
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f03df83c82cbb30800000000000000
+      internalID: 4304360164256059274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_70
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 652
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e6f15545a8afb20800000000000000
+      internalID: 3168997382618574395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_71
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 652
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f937b7040bfca9f30800000000000000
+      internalID: 4583203926705927071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 652
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621361c8a6999a0d0800000000000000
+      internalID: -3411026559860592346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_73
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 571
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56de323f3aa63cd20800000000000000
+      internalID: 3297596604556766565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_74
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 604
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5686d8cf807075720800000000000000
+      internalID: 2834742225631275109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_75
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 612
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ccb8fe59a29eee0800000000000000
+      internalID: -1231406199651709912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_76
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 605
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a4c23350215c130800000000000000
+      internalID: 3586292491813145166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_77
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 607
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bcd26ac58cad6d0800000000000000
+      internalID: -2964837104419484817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_78
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 611
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9bb0c6a1d076170800000000000000
+      internalID: 8171514456020072958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_79
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 609
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0a88e8387c2a270800000000000000
+      internalID: 8260384034396872886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_80
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 613
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edecca13b2f8a1e00800000000000000
+      internalID: 1016282081605242590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_81
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 576
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81718bb568f769680800000000000000
+      internalID: -8748665011079473384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_82
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 602
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641b07718f882a430800000000000000
+      internalID: 3792744435325907270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_83
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 603
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5bb8e28178ea480800000000000000
+      internalID: -8886016476825537041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_84
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 578
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2fdca0ff44f8da0800000000000000
+      internalID: -5940453521289776474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_85
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 574
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94071471aac42e7f0800000000000000
+      internalID: -584820708186427319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_86
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 593
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe90e49f8dccfc000800000000000000
+      internalID: 58490552446749167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_87
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 579
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f186a60aee75e8210800000000000000
+      internalID: 1337102821780776991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_88
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 576
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621e57072fec75ed0800000000000000
+      internalID: -2425242333651541722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_89
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 594
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f391ad19999c54fe0800000000000000
+      internalID: -1205335663837570753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 574
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a059747e723204b0800000000000000
+      internalID: -5475758678227726172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_91
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 560
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836fc7c0bfb97e820800000000000000
+      internalID: 2947495983685891640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_92
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 560
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3936c1c2c6e9d9bb0800000000000000
+      internalID: -4927608229839740013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_93
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 560
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6897050ca62bdf080800000000000000
+      internalID: -9151962696184202874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 560
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab76791ea4137ba0800000000000000
+      internalID: -6092503132918088790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 560
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ddb380ec0143540800000000000000
+      internalID: 4986629164493430152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_96
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 560
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b76abaae61362580800000000000000
+      internalID: -8852333666169624655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_97
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 560
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb6f03511b7b8760800000000000000
+      internalID: 7461192522007538633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_98
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 560
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395a36e3b23a9fb30800000000000000
+      internalID: 4321664723564340627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_99
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 508
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee63f4c9faffb3a50800000000000000
+      internalID: 6502071616746239726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_100
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 511
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aae22405c3101e0800000000000000
+      internalID: -2233437624793650663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_101
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 530
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f0d71794ab06260800000000000000
+      internalID: 7088870638080560963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_102
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 516
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9216111a5a50e6390800000000000000
+      internalID: -7823309293765959383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_103
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 513
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d176d998e67fde90800000000000000
+      internalID: -6998744554525003309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_104
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 531
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fd83afe109631b0800000000000000
+      internalID: -5677191817532481640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_105
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 497
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89a3c2fecbd9ddd0800000000000000
+      internalID: -2460694039498610289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 497
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf786b32f561aeff0800000000000000
+      internalID: -6167851610765317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_107
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 497
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d238737ab03e840800000000000000
+      internalID: 5252054403262917937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_108
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 474
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd5943bdb2fe9a10800000000000000
+      internalID: 1918237387877080506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_109
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 454
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902a21fe749c22cc0800000000000000
+      internalID: -3737203429973253623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_110
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 407
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9542637dfc4fefd30800000000000000
+      internalID: 4467277053904168025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_111
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 409
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887123c8c9b008030800000000000000
+      internalID: 3494806077834401672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_112
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 408
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26e8cdecdc083d50800000000000000
+      internalID: 6717132987244799535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_113
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 408
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65356c5e531fa150800000000000000
+      internalID: 5885944533994517867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_114
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 424
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48062ccdf79fe9dd0800000000000000
+      internalID: -2477268417447305084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_115
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 409
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cf05705e74d1130800000000000000
+      internalID: 3539063931178908767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_116
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 407
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f930c5f9e939ff380800000000000000
+      internalID: -8935260826192051297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_117
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4862658b033c78920800000000000000
+      internalID: 2992575091429484164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_118
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 410
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521c9503d2ae36fe0800000000000000
+      internalID: -1196855596144803547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_119
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 405
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade557e6d2eadcf60800000000000000
+      internalID: 8056286818585632474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_120
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 406
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae2f935b6db7eb00800000000000000
+      internalID: 857862522699460270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_121
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 410
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1187d24b42b9410a0800000000000000
+      internalID: -6911728946162862063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_122
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 405
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9364e84366434c80800000000000000
+      internalID: -8339744692721392741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_123
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 406
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ed734a8269e1e90800000000000000
+      internalID: -7053034865117635053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_124
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 391
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641b5ee17609682e0800000000000000
+      internalID: -2123851401684209338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_125
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 391
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0452bd7ad2da66d90800000000000000
+      internalID: -7104800950529088192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_126
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 391
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8e23b06499ab870800000000000000
+      internalID: 8699434156334180527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_127
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 391
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27009797f296acb0800000000000000
+      internalID: -4853029956347754709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_128
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 310
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0532e7291311e5420800000000000000
+      internalID: 2620550937785017168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_129
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 343
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06aaffc1bd023d30800000000000000
+      internalID: 4409602042498819597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_130
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 351
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f931a4eb423d1ac40800000000000000
+      internalID: 5521926772897747871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_131
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 344
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c39e3016a230470800000000000000
+      internalID: 8359571929495583803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_132
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 346
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28f5b86bf540d980800000000000000
+      internalID: -8516229949261744086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_133
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 350
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1a91b5ad2372900800000000000000
+      internalID: 659551783845732842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_134
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 348
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f0e3b69076a4b90800000000000000
+      internalID: -7256874559402537161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_135
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 352
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5985423a0423ceb0800000000000000
+      internalID: -4700873959832975014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_136
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 315
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a0d47c5beb72030800000000000000
+      internalID: 3469951725854329383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_137
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 341
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7954d1495e60707e0800000000000000
+      internalID: -1799461943009000041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_138
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d470cd70c0dca4190800000000000000
+      internalID: -7977338338378250419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_139
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 317
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e1da72e219566b0800000000000000
+      internalID: -5303673358738710965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_140
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 313
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe8ca8876dd1acb0800000000000000
+      internalID: -4854355486584303883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_141
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 332
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84275de9f0b45acb0800000000000000
+      internalID: -4853390492960460216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_142
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 318
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f76109e7b5680b10800000000000000
+      internalID: 1947918679400343536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_143
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 315
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abefe6dc8f9eb2730800000000000000
+      internalID: 3975528350892359354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_144
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 333
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c495a169cf67ec0800000000000000
+      internalID: -3569387933027185607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_145
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 313
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882fbf0e30ad380f0800000000000000
+      internalID: -1115808572463385976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_146
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 299
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ee4fdedbe36bc60800000000000000
+      internalID: 7833517587319549530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_147
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 299
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f69a7299ebb33ff0800000000000000
+      internalID: -57495758366402832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_148
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 299
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3dc9851f0efede00800000000000000
+      internalID: 1071573102100073786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_149
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 299
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccdad636cb985720800000000000000
+      internalID: 2835187241055870153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_150
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 299
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc5d65c94cb4d420800000000000000
+      internalID: 2653953105458978005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_151
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 299
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41809e0e13eda890800000000000000
+      internalID: -7445044890740686516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_152
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 299
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7845db554e9969e00800000000000000
+      internalID: 1051196769007654023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_153
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 299
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d4f2aa653e50ec0800000000000000
+      internalID: -3601222365650924191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_154
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 247
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7831f34745ece10800000000000000
+      internalID: 2219804524591417305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_155
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 250
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348ad0254bcf2dab0800000000000000
+      internalID: -4984643986144778173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_156
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 269
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7811f6bb09bd76940800000000000000
+      internalID: 5289437702036328839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_157
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 255
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16406dbd594240870800000000000000
+      internalID: 8648077410515158113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_158
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 252
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c3c37c34717c000800000000000000
+      internalID: 56039100238281759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_159
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 270
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1301818bb0b214c0800000000000000
+      internalID: -4318194773316795621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_160
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 236
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59674bba3d4b1cb50800000000000000
+      internalID: 6611764549168428693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_161
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 236
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbffd681d7fc74c0800000000000000
+      internalID: -4288280265880503364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_162
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 236
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36244df52d334fa90800000000000000
+      internalID: -7281137718907354525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_163
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 213
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeeae9112466be70800000000000000
+      internalID: 9130595387871784617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_164
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 193
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f45bbb57c9b3cae0800000000000000
+      internalID: -1530175182487202575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_165
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 148
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e19865abf5d39910800000000000000
+      internalID: 1843051949313266151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_166
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c34d3621ed63ac00800000000000000
+      internalID: 910692363435590598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_167
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 151
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3988ab1fd7a43e10800000000000000
+      internalID: 2176549096610367807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_168
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 147
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cfa67baf18158b0800000000000000
+      internalID: -5165204383798199246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_169
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 132
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084b916e7503b1f00800000000000000
+      internalID: 1088516889020839040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_170
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 94
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246b55b090fb02120800000000000000
+      internalID: 2387117848072140354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_171
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 94
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f7dc41fe9e22e80800000000000000
+      internalID: -8204738358060155130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_172
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 94
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56f39cb8d4fabfc0800000000000000
+      internalID: -3478198550476360097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_173
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 94
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e191a6f3b41126fc0800000000000000
+      internalID: -3503218545256687330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_174
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 94
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f6162dd725348c0800000000000000
+      internalID: -4016275742330359959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_175
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 94
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0afa378ece87e60800000000000000
+      internalID: 7960372824494809328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_176
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 94
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291aac20223dd1cb0800000000000000
+      internalID: -4891521477225307758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_177
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 94
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c04740b92ebf8ee0800000000000000
+      internalID: -1256576684752682808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_178
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 22
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11946d45bcf5ec3e0800000000000000
+      internalID: -2031581054991185647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_179
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 22
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebb8008f3fc94e20800000000000000
+      internalID: 3335424870682508262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_180
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 22
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2b6aabe246a3300800000000000000
+      internalID: 232608482625762026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_181
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 19
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60644e1574159190800000000000000
+      internalID: -7956430673428586390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_182
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 22
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0393448bc3f34b280800000000000000
+      internalID: -9028521822948935376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_183
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 22
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23382ab552bae6480800000000000000
+      internalID: -8903991236325375182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_184
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 20
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d375979301a035cd0800000000000000
+      internalID: -2570699897498413251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_185
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909b09d4322d35a70800000000000000
+      internalID: 8814619944761211145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_0: 394476917664940036
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_1: -6012186879061372961
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_10: -1265037583366657347
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_100: -2233437624793650663
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_101: 7088870638080560963
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_102: -7823309293765959383
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_103: -6998744554525003309
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_104: -5677191817532481640
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_105: -2460694039498610289
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_106: -6167851610765317
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_107: 5252054403262917937
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_108: 1918237387877080506
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_109: -3737203429973253623
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_11: 3216223387456887192
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_110: 4467277053904168025
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_111: 3494806077834401672
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_112: 6717132987244799535
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_113: 5885944533994517867
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_114: -2477268417447305084
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_115: 3539063931178908767
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_116: -8935260826192051297
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_117: 2992575091429484164
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_118: -1196855596144803547
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_119: 8056286818585632474
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_12: -264737730506255903
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_120: 857862522699460270
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_121: -6911728946162862063
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_122: -8339744692721392741
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_123: -7053034865117635053
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_124: -2123851401684209338
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_125: -7104800950529088192
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_126: 8699434156334180527
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_127: -4853029956347754709
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_128: 2620550937785017168
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_129: 4409602042498819597
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_13: 96940942419668386
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_130: 5521926772897747871
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_131: 8359571929495583803
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_132: -8516229949261744086
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_133: 659551783845732842
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_134: -7256874559402537161
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_135: -4700873959832975014
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_136: 3469951725854329383
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_137: -1799461943009000041
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_138: -7977338338378250419
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_139: -5303673358738710965
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_14: 356227812986897779
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_140: -4854355486584303883
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_141: -4853390492960460216
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_142: 1947918679400343536
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_143: 3975528350892359354
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_144: -3569387933027185607
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_145: -1115808572463385976
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_146: 7833517587319549530
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_147: -57495758366402832
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_148: 1071573102100073786
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_149: 2835187241055870153
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_15: 8398586076689270181
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_150: 2653953105458978005
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_151: -7445044890740686516
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_152: 1051196769007654023
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_153: -3601222365650924191
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_154: 2219804524591417305
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_155: -4984643986144778173
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_156: 5289437702036328839
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_157: 8648077410515158113
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_158: 56039100238281759
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_159: -4318194773316795621
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_16: -5874264929914494582
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_160: 6611764549168428693
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_161: -4288280265880503364
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_162: -7281137718907354525
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_163: 9130595387871784617
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_164: -1530175182487202575
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_165: 1843051949313266151
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_166: 910692363435590598
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_167: 2176549096610367807
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_168: -5165204383798199246
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_169: 1088516889020839040
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_17: 3057485823041532117
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_170: 2387117848072140354
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_171: -8204738358060155130
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_172: -3478198550476360097
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_173: -3503218545256687330
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_174: -4016275742330359959
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_175: 7960372824494809328
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_176: -4891521477225307758
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_177: -1256576684752682808
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_178: -2031581054991185647
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_179: 3335424870682508262
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_18: 1183062982676722217
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_180: 232608482625762026
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_181: -7956430673428586390
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_182: -9028521822948935376
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_183: -8903991236325375182
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_184: -2570699897498413251
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_185: 8814619944761211145
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_19: 151151045127987140
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_2: -8167372172473041472
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_20: -7315029034177004567
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_21: 5195976218884843493
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_22: -4826213742283450431
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_23: -7219839675122019723
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_24: 6296049244643990208
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_25: 7393765183609347902
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_26: 3099190414950242394
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_27: 1470558482651126679
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_28: 3210099263600540454
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_29: -7028230363393153126
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_3: 2909355689794456317
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_30: 1499768551777906780
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_31: -3339011551466747000
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_32: -9047546694371533731
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_33: 98770470139954637
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_34: 2517887071669093968
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_35: -5919863844470965350
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_36: 8072674851495103763
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_37: -3946478602368616369
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_38: 6616684568893714680
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_39: 8560566043455247270
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_4: 241198717667586518
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_40: -7203518949482889318
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_41: -7750279864290911879
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_42: -3582785831335773334
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_43: -6716665765258485957
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_44: -5419202449437659533
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_45: 6886329424197103733
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_46: -5954643398053536948
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_47: -972879672696389552
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_48: 7702261200020315395
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_49: 3504488823799924365
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_5: -5272382779669834491
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_50: 6535270247384231650
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_51: -1523321094503848837
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_52: 5587790839351773718
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_53: -3004999609078607352
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_54: 7728244301975489629
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_55: 1282380553682347028
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_56: -3140098881454678791
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_57: -3047222768658724205
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_58: 6249651800251166158
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_59: 1007448786646576357
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_6: 6834233293580767970
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_60: 5389998499627798690
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_61: -3342535905839600877
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_62: 8162056112638306185
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_63: 1669417947543430523
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_64: -5675402252831765221
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_65: -7695255310728602681
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_66: 7296687629705338855
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_67: -1395799644183103297
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_68: 7116973050743387852
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_69: 4304360164256059274
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_7: -1456847109864917422
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_70: 3168997382618574395
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_71: 4583203926705927071
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_72: -3411026559860592346
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_73: 3297596604556766565
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_74: 2834742225631275109
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_75: -1231406199651709912
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_76: 3586292491813145166
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_77: -2964837104419484817
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_78: 8171514456020072958
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_79: 8260384034396872886
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_8: -8948996126927121537
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_80: 1016282081605242590
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_81: -8748665011079473384
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_82: 3792744435325907270
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_83: -8886016476825537041
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_84: -5940453521289776474
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_85: -584820708186427319
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_86: 58490552446749167
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_87: 1337102821780776991
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_88: -2425242333651541722
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_89: -1205335663837570753
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_9: 3735447866629752668
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_90: -5475758678227726172
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_91: 2947495983685891640
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_92: -4927608229839740013
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_93: -9151962696184202874
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_94: -6092503132918088790
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_95: 4986629164493430152
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_96: -8852333666169624655
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_97: 7461192522007538633
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_98: 4321664723564340627
+      SNES - Breath of Fire 2 - Enemies - Willowsp, Soulflik and D. Spirit (1)_99: 6502071616746239726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

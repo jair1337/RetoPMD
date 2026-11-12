@@ -1,0 +1,4099 @@
+fileFormatVersion: 2
+guid: 2bef8a41d071041469adc04460320f3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1801484597254779193
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_0
+  - first:
+      213: 630321539483773575
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_1
+  - first:
+      213: -1424804666984712988
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_2
+  - first:
+      213: -1381706171998246849
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_3
+  - first:
+      213: -4230496002042087746
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_4
+  - first:
+      213: 5374078764919222897
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_5
+  - first:
+      213: -1004596613184947693
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_6
+  - first:
+      213: 3379733454637155020
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_7
+  - first:
+      213: 6681176571041433505
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_8
+  - first:
+      213: 5446902586024919906
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_9
+  - first:
+      213: 1706385026617656890
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_10
+  - first:
+      213: 3485903396116713369
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_11
+  - first:
+      213: 7147258525232015592
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_12
+  - first:
+      213: -2434845897188562493
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_13
+  - first:
+      213: 6843749831725100185
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_14
+  - first:
+      213: 1766608871837165220
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_15
+  - first:
+      213: -4557795446391290572
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_16
+  - first:
+      213: -4238774793432001954
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_17
+  - first:
+      213: -3940665536810842523
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_18
+  - first:
+      213: 2037325296766308862
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_19
+  - first:
+      213: 2941979061704337632
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_20
+  - first:
+      213: 1252731196575110427
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_21
+  - first:
+      213: 6476148021421765551
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_22
+  - first:
+      213: 8451955909711585105
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_23
+  - first:
+      213: -3188996628033842840
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_24
+  - first:
+      213: -8251819204351096579
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_25
+  - first:
+      213: 6029028805644993510
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_26
+  - first:
+      213: -1774600054287364410
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_27
+  - first:
+      213: 8779538622177578457
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_28
+  - first:
+      213: 6502342579952437514
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_29
+  - first:
+      213: 409263140920766063
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_30
+  - first:
+      213: -430692734766466262
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_31
+  - first:
+      213: -5646021091218211256
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_32
+  - first:
+      213: 216789968958716580
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_33
+  - first:
+      213: -7235897187329282599
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_34
+  - first:
+      213: -4471967333786532519
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_35
+  - first:
+      213: -887479758765077642
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_36
+  - first:
+      213: 1295104542690744024
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_37
+  - first:
+      213: 1323432436033168712
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_38
+  - first:
+      213: -5497117413240592232
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_39
+  - first:
+      213: 360661768223302431
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_40
+  - first:
+      213: -5547224534784044331
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_41
+  - first:
+      213: 557898234474270786
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_42
+  - first:
+      213: -8962107375779767898
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_43
+  - first:
+      213: 5233876469189723546
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_44
+  - first:
+      213: 445490594265605754
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_45
+  - first:
+      213: -7355850592188239414
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_46
+  - first:
+      213: -4459820012762441786
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_47
+  - first:
+      213: 4305017774548284071
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_48
+  - first:
+      213: 1927921163375901177
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_49
+  - first:
+      213: 2724397590453758162
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_50
+  - first:
+      213: 5109228574071445629
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_51
+  - first:
+      213: -970685570425300421
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_52
+  - first:
+      213: -2697211144916968548
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_53
+  - first:
+      213: -5940259285208627149
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_54
+  - first:
+      213: 3248119634835311550
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_55
+  - first:
+      213: -8047169969742092226
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_56
+  - first:
+      213: 1402247793584316699
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_57
+  - first:
+      213: 3063589188136867851
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_58
+  - first:
+      213: -6624618344462874848
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_59
+  - first:
+      213: -3011096513575076402
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_60
+  - first:
+      213: -5809088286729490320
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_61
+  - first:
+      213: 6287180371467735131
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_62
+  - first:
+      213: 4969902175297016342
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_63
+  - first:
+      213: -2813843471247062672
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_64
+  - first:
+      213: 5422200337976308056
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_65
+  - first:
+      213: -6419177357850401955
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_66
+  - first:
+      213: -4099718453669723898
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_67
+  - first:
+      213: -3331999341084621443
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_68
+  - first:
+      213: -8499263196478833977
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_69
+  - first:
+      213: -4007372165554266475
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_70
+  - first:
+      213: -6166904888718961884
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_71
+  - first:
+      213: 6793848360639728623
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_72
+  - first:
+      213: 2697562961069077045
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_73
+  - first:
+      213: -1653026484748707179
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_74
+  - first:
+      213: 112586084487743160
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_75
+  - first:
+      213: 6695037349681139547
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_76
+  - first:
+      213: -1582467426675178893
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_77
+  - first:
+      213: 7498498443904813797
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_78
+  - first:
+      213: -6016878132321521683
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_79
+  - first:
+      213: -4305013373437640710
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_80
+  - first:
+      213: 8691281911054568455
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_81
+  - first:
+      213: 2035178549999035168
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_82
+  - first:
+      213: 5222015649451290507
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_83
+  - first:
+      213: 7880522056398774212
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_84
+  - first:
+      213: 5025387562524795769
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_85
+  - first:
+      213: -2663078209386987480
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_86
+  - first:
+      213: 1020421196908319429
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_87
+  - first:
+      213: 5034629077478304900
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_88
+  - first:
+      213: -4058983188208140585
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_89
+  - first:
+      213: 3546598511188284156
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_90
+  - first:
+      213: -5780621897155171887
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_91
+  - first:
+      213: 7482456490994220536
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_92
+  - first:
+      213: 9089033563141557598
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_93
+  - first:
+      213: 5578338578186437137
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_94
+  - first:
+      213: -3095813648910644031
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_95
+  - first:
+      213: 2358414952864249013
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_96
+  - first:
+      213: -3744975603439552690
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_97
+  - first:
+      213: -4859941896531542458
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_98
+  - first:
+      213: 7815901214094160632
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_99
+  - first:
+      213: -4667893952731202106
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_100
+  - first:
+      213: 2596545218673456114
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_101
+  - first:
+      213: 9176072566548709849
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_102
+  - first:
+      213: 6040968823012011001
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_103
+  - first:
+      213: -5059818038961731436
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_104
+  - first:
+      213: -5283531269032264407
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_105
+  - first:
+      213: 1781326646227424054
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_106
+  - first:
+      213: -8392020045169499177
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_107
+  - first:
+      213: -6403089996772929985
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_108
+  - first:
+      213: 3952266611327582846
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_109
+  - first:
+      213: 5034382768428214544
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_110
+  - first:
+      213: 6600684610188925154
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_111
+  - first:
+      213: 7026001817567413708
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_112
+  - first:
+      213: 8378793080859249457
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_113
+  - first:
+      213: 933943626784285570
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_114
+  - first:
+      213: 4746268733171708749
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_115
+  - first:
+      213: -6897167998441465305
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_116
+  - first:
+      213: 660584275451694985
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_117
+  - first:
+      213: 5026448288093084654
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_118
+  - first:
+      213: 1458119725984035031
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_119
+  - first:
+      213: 6065472290571693422
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_120
+  - first:
+      213: 1656005491341346450
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_121
+  - first:
+      213: -212116054100560457
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_122
+  - first:
+      213: -6711732053618508701
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_123
+  - first:
+      213: -5660861920455523494
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_124
+  - first:
+      213: -6860813012555409655
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_125
+  - first:
+      213: 5866140094293811845
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_126
+  - first:
+      213: 6416329769898842845
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_127
+  - first:
+      213: 8988497063102387153
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_128
+  - first:
+      213: 2880686535765948115
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_129
+  - first:
+      213: -5083503841885487916
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_130
+  - first:
+      213: 6931392029230818253
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_131
+  - first:
+      213: 4978153358971917814
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_132
+  - first:
+      213: 6781984082532448233
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_133
+  - first:
+      213: 4752803377467983158
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_134
+  - first:
+      213: 1671779541268875199
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_135
+  - first:
+      213: -8877116988647666598
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_136
+  - first:
+      213: 4429529031517215004
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_137
+  - first:
+      213: -6063704041905305884
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_138
+  - first:
+      213: -5994878688857699012
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_139
+  - first:
+      213: -4543832230662568241
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_140
+  - first:
+      213: 2136254222974097368
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_141
+  - first:
+      213: -8317611410605952364
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_142
+  - first:
+      213: 3528993662830972608
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_143
+  - first:
+      213: -2511368082941563710
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_144
+  - first:
+      213: 7800583773608937304
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_145
+  - first:
+      213: 5572808483338222352
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_146
+  - first:
+      213: -4504592966376114594
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_147
+  - first:
+      213: 4248852868648324654
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_148
+  - first:
+      213: -1678086198888549752
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_149
+  - first:
+      213: 7541950768585995024
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_150
+  - first:
+      213: 8484423876715696502
+    second: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1117
+        width: 52
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce8a40bd47dff6e0800000000000000
+      internalID: -1801484597254779193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1117
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a253fb91a5fb800800000000000000
+      internalID: 630321539483773575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1117
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4be0e44b31a3ce0800000000000000
+      internalID: -1424804666984712988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1117
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f386412ae8133dce0800000000000000
+      internalID: -1381706171998246849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1117
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6329edc424a45c0800000000000000
+      internalID: -4230496002042087746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1117
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172faf1e920949a40800000000000000
+      internalID: 5374078764919222897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_6
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1117
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31afc80f3b4fe02f0800000000000000
+      internalID: -1004596613184947693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_7
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1117
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2c62f9ba937ee20800000000000000
+      internalID: 3379733454637155020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_8
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1121
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7469661be48bc50800000000000000
+      internalID: 6681176571041433505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1006
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2630c260b09479b40800000000000000
+      internalID: 5446902586024919906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1006
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a364791142c4ea710800000000000000
+      internalID: 1706385026617656890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1005
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f4dde6baa606030800000000000000
+      internalID: 3485903396116713369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1005
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8265ac2c9203360800000000000000
+      internalID: 7147258525232015592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_13
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1007
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9224f8e80b53ed0800000000000000
+      internalID: -2434845897188562493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_14
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1004
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c2d935632e9fe50800000000000000
+      internalID: 6843749831725100185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 887
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a668e6b861448810800000000000000
+      internalID: 1766608871837165220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 886
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43544f290357fb0c0800000000000000
+      internalID: -4557795446391290572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 888
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e521b9a88c8dc25c0800000000000000
+      internalID: -4238774793432001954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_18
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 890
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56604c3a291ff49c0800000000000000
+      internalID: -3940665536810842523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_19
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 889
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef15cad2098064c10800000000000000
+      internalID: 2037325296766308862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_20
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 889
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8268d8e5204d820800000000000000
+      internalID: 2941979061704337632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 772
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15d8e2d268926110800000000000000
+      internalID: 1252731196575110427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 806
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa371b93056efd950800000000000000
+      internalID: 6476148021421765551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 809
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f5f979e116b4570800000000000000
+      internalID: 8451955909711585105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 809
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861df1c76786eb3d0800000000000000
+      internalID: -3188996628033842840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 809
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df808e55726ab7d80800000000000000
+      internalID: -8251819204351096579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_26
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 809
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3411d61c96ba350800000000000000
+      internalID: 6029028805644993510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 809
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce00d127aa5f57e0800000000000000
+      internalID: -1774600054287364410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_28
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 809
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd87b26cdf27d970800000000000000
+      internalID: 8779538622177578457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 809
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0946f52026fc3a50800000000000000
+      internalID: 6502342579952437514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_30
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 731
+        width: 35
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e2e3688aefda500800000000000000
+      internalID: 409263140920766063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_31
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 731
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b37e85d3fd50af0800000000000000
+      internalID: -430692734766466262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_32
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 731
+        width: 71
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e339f3bbd45a1b0800000000000000
+      internalID: -5646021091218211256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_33
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 731
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaf6a20451320300800000000000000
+      internalID: 216789968958716580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_34
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 731
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd6df578dde49b90800000000000000
+      internalID: -7235897187329282599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_35
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 789
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955c086476160f1c0800000000000000
+      internalID: -4471967333786532519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_36
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 789
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b45798cd90fa3f0800000000000000
+      internalID: -887479758765077642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_37
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 789
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6931648b229f110800000000000000
+      internalID: 1295104542690744024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 789
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845acf9e9c6cd5210800000000000000
+      internalID: 1323432436033168712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 789
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8982e2f66d056b3b0800000000000000
+      internalID: -5497117413240592232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 789
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13a303a7f3510500800000000000000
+      internalID: 360661768223302431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_41
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 789
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d29dd21dac4403b0800000000000000
+      internalID: -5547224534784044331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_42
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 789
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24018a60d7d0eb700800000000000000
+      internalID: 557898234474270786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_43
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 789
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a91db333d230a380800000000000000
+      internalID: -8962107375779767898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_44
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 786
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9544502be672a840800000000000000
+      internalID: 5233876469189723546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_45
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 789
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76aafdc553be2600800000000000000
+      internalID: 445490594265605754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_46
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 789
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1f5cffbd4cae990800000000000000
+      internalID: -7355850592188239414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_47
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 789
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7dd19d3598b12c0800000000000000
+      internalID: -4459820012762441786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_48
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 789
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a271b36bde7ebb30800000000000000
+      internalID: 4305017774548284071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_49
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 789
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f97af1651a51ca10800000000000000
+      internalID: 1927921163375901177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 789
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d82ded8c210fc520800000000000000
+      internalID: 2724397590453758162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_51
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 789
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78ddc97150a7e640800000000000000
+      internalID: 5109228574071445629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_52
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 786
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ad33add9e6782f0800000000000000
+      internalID: -970685570425300421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_53
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 789
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bdffe01c4919ad0800000000000000
+      internalID: -2697211144916968548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_54
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 773
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3388c6727a5ff8da0800000000000000
+      internalID: -5940259285208627149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_55
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 773
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb845e3993a31d20800000000000000
+      internalID: 3248119634835311550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_56
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 771
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38e45a5c85b25090800000000000000
+      internalID: -8047169969742092226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_57
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 773
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b112ba750f8c57310800000000000000
+      internalID: 1402247793584316699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_58
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 773
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0810a0922e048a20800000000000000
+      internalID: 3063589188136867851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_59
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 773
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02701c5e6b0a014a0800000000000000
+      internalID: -6624618344462874848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_60
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 770
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdb0f3acaf6636d0800000000000000
+      internalID: -3011096513575076402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 773
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0703b982bf8f16fa0800000000000000
+      internalID: -5809088286729490320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_62
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 773
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b509428ac3d804750800000000000000
+      internalID: 6287180371467735131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_63
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 773
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612150f52b3a8f440800000000000000
+      internalID: 4969902175297016342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_64
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 773
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07944c2754833f8d0800000000000000
+      internalID: -2813843471247062672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_65
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 773
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851b416ba768f3b40800000000000000
+      internalID: 5422200337976308056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_66
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 773
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53a81b04308ae6a0800000000000000
+      internalID: -6419177357850401955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_67
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 773
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60107e1a9cfda17c0800000000000000
+      internalID: -4099718453669723898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_68
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 773
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75c0d2c04c52c1d0800000000000000
+      internalID: -3331999341084621443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_69
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 756
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caf351672d8c0a80800000000000000
+      internalID: -8499263196478833977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 607
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e99555f34f268c0800000000000000
+      internalID: -4007372165554266475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_71
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 607
+        width: 73
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42359486da0ca6aa0800000000000000
+      internalID: -6166904888718961884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_72
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 607
+        width: 85
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb0dc1b619984e50800000000000000
+      internalID: 6793848360639728623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_73
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 604
+        width: 105
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532f5c5883baf6520800000000000000
+      internalID: 2697562961069077045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_74
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 604
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a9d349b254f09e0800000000000000
+      internalID: -1653026484748707179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_75
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 613
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b64b84827cff8100800000000000000
+      internalID: 112586084487743160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_76
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 604
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f87b96ffc89ec50800000000000000
+      internalID: 6695037349681139547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_77
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 606
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372466c7242f90ae0800000000000000
+      internalID: -1582467426675178893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_78
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 605
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea04c12b94001860800000000000000
+      internalID: 7498498443904813797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_79
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 486
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defe82aa731cf7ca0800000000000000
+      internalID: -6016878132321521683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_80
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 486
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff71f255258144c0800000000000000
+      internalID: -4305013373437640710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_81
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 486
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c8f2789d2ad9870800000000000000
+      internalID: 8691281911054568455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_82
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 486
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023ef2fbb186e3c10800000000000000
+      internalID: 2035178549999035168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_83
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 486
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f2315d093587840800000000000000
+      internalID: 5222015649451290507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_84
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 458
+        width: 67
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf9748be0d3d5d60800000000000000
+      internalID: 7880522056398774212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_85
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 444
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973e4facc53cdb540800000000000000
+      internalID: 5025387562524795769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_86
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 452
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820c7686a78da0bd0800000000000000
+      internalID: -2663078209386987480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_87
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 456
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2dff21ca3492e00800000000000000
+      internalID: 1020421196908319429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_88
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 456
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c62faa8789ed540800000000000000
+      internalID: 5034629077478304900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_89
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 454
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de3295bb489ba7c0800000000000000
+      internalID: -4058983188208140585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_90
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 305
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf29e442e8c083130800000000000000
+      internalID: 3546598511188284156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_91
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 305
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9a837f20b17cfa0800000000000000
+      internalID: -5780621897155171887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_92
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 312
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdb609e88607d760800000000000000
+      internalID: 7482456490994220536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_93
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 305
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dc7a2bedbb22e70800000000000000
+      internalID: 9089033563141557598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_94
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 305
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11209ada16d3a6d40800000000000000
+      internalID: 5578338578186437137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 305
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc00ed73e57905d0800000000000000
+      internalID: -3095813648910644031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_96
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 305
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4717a77e5cab020800000000000000
+      internalID: 2358414952864249013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_97
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 305
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e473b78c78c270cc0800000000000000
+      internalID: -3744975603439552690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_98
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 305
+        width: 38
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ef23c18940e8cb0800000000000000
+      internalID: -4859941896531542458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_99
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 154
+        width: 61
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f270a96eb8a77c60800000000000000
+      internalID: 7815901214094160632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_100
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 155
+        width: 46
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd334a7e2f483fb0800000000000000
+      internalID: -4667893952731202106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_101
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 230
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3354a8e18c80420800000000000000
+      internalID: 2596545218673456114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_102
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 156
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1c752e165f75f70800000000000000
+      internalID: 9176072566548709849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_103
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 149
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb27da5325d5d350800000000000000
+      internalID: 6040968823012011001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_104
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 156
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49882973d4ae7c9b0800000000000000
+      internalID: -5059818038961731436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_105
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 220
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92db9addd402da6b0800000000000000
+      internalID: -5283531269032264407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_106
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 158
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633d259952b88b810800000000000000
+      internalID: 1781326646227424054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_107
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 6
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3e6b35b3e898b80800000000000000
+      internalID: -8392020045169499177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_108
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 6
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e0e7da297a327a0800000000000000
+      internalID: -6403089996772929985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_109
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 6
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7241d10b8549d630800000000000000
+      internalID: 3952266611327582846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_110
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 6
+        width: 36
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019e28f5478bdd540800000000000000
+      internalID: 5034382768428214544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_111
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 76
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8d2b85ea75a9b50800000000000000
+      internalID: 6600684610188925154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_112
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 73
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5ca5f7d6f518160800000000000000
+      internalID: 7026001817567413708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_113
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 73
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bcd1f0ae3774470800000000000000
+      internalID: 8378793080859249457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_114
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283a7b2c7c806fc00800000000000000
+      internalID: 933943626784285570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_115
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 76
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d433e3914422ed140800000000000000
+      internalID: 4746268733171708749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_116
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 76
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a54b88f365840a0800000000000000
+      internalID: -6897167998441465305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_117
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 73
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fc18a06edda2900800000000000000
+      internalID: 660584275451694985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_118
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 23
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb98a5361881c540800000000000000
+      internalID: 5026448288093084654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_119
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 55
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0b4435a284c3410800000000000000
+      internalID: 1458119725984035031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_120
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 58
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d208a79e2ec2450800000000000000
+      internalID: 6065472290571693422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_121
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 58
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2964f7178305bf610800000000000000
+      internalID: 1656005491341346450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_122
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 58
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5bd2892996e0df0800000000000000
+      internalID: -212116054100560457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_123
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 58
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c377ce1432bd2a0800000000000000
+      internalID: -6711732053618508701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_124
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 42
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5386bc63149071b0800000000000000
+      internalID: -5660861920455523494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_125
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 42
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907d14c4aee79c0a0800000000000000
+      internalID: -6860813012555409655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_126
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 42
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5822f0be557b86150800000000000000
+      internalID: 5866140094293811845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_127
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda95983ee16b0950800000000000000
+      internalID: 6416329769898842845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_128
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 39
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d31cdea47e8dbc70800000000000000
+      internalID: 8988497063102387153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_129
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 42
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6749944214af720800000000000000
+      internalID: 2880686535765948115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_130
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcf41a7034c379b0800000000000000
+      internalID: -5083503841885487916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_131
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 42
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3e6459350413060800000000000000
+      internalID: 6931392029230818253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_132
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 40
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f550f6ca14f51540800000000000000
+      internalID: 4978153358971917814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_133
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 39
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e733bf27927e1e50800000000000000
+      internalID: 6781984082532448233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_134
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 42
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63581498d7955f140800000000000000
+      internalID: 4752803377467983158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_135
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 42
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7c814a2aa533710800000000000000
+      internalID: 1671779541268875199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_136
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 42
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c021eb1252ec480800000000000000
+      internalID: -8877116988647666598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_137
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c191ddd7f29d87d30800000000000000
+      internalID: 4429529031517215004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_138
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 42
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6422ffc4569dba0800000000000000
+      internalID: -6063704041905305884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_139
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 23
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dc31f3899edcca0800000000000000
+      internalID: -5994878688857699012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_140
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6036419a011f0c0800000000000000
+      internalID: -4543832230662568241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_141
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d79c4eb5ef75ad10800000000000000
+      internalID: 2136254222974097368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_142
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 26
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492b81b9d78e19c80800000000000000
+      internalID: -8317611410605952364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_143
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce05a7f90189f030800000000000000
+      internalID: 3528993662830972608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_144
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 23
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cca30cc804d52dd0800000000000000
+      internalID: -2511368082941563710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_145
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85703a2ec9d314c60800000000000000
+      internalID: 7800583773608937304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_146
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b78a22ac7965d40800000000000000
+      internalID: 5572808483338222352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_147
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56bd6d30987c71c0800000000000000
+      internalID: -4504592966376114594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_148
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 26
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ecea23c25f6fa30800000000000000
+      internalID: 4248852868648324654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_149
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88233c43e7d36b8e0800000000000000
+      internalID: -1678086198888549752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_150
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 26
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0137d0bd3446aa860800000000000000
+      internalID: 7541950768585995024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_151
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 26
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6715b7f309abeb570800000000000000
+      internalID: 8484423876715696502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c2c464a8aae71474c8cf0e68e3d5a3a7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_0: -1801484597254779193
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_1: 630321539483773575
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_10: 1706385026617656890
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_100: -4667893952731202106
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_101: 2596545218673456114
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_102: 9176072566548709849
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_103: 6040968823012011001
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_104: -5059818038961731436
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_105: -5283531269032264407
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_106: 1781326646227424054
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_107: -8392020045169499177
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_108: -6403089996772929985
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_109: 3952266611327582846
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_11: 3485903396116713369
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_110: 5034382768428214544
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_111: 6600684610188925154
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_112: 7026001817567413708
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_113: 8378793080859249457
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_114: 933943626784285570
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_115: 4746268733171708749
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_116: -6897167998441465305
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_117: 660584275451694985
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_118: 5026448288093084654
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_119: 1458119725984035031
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_12: 7147258525232015592
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_120: 6065472290571693422
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_121: 1656005491341346450
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_122: -212116054100560457
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_123: -6711732053618508701
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_124: -5660861920455523494
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_125: -6860813012555409655
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_126: 5866140094293811845
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_127: 6416329769898842845
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_128: 8988497063102387153
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_129: 2880686535765948115
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_13: -2434845897188562493
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_130: -5083503841885487916
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_131: 6931392029230818253
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_132: 4978153358971917814
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_133: 6781984082532448233
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_134: 4752803377467983158
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_135: 1671779541268875199
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_136: -8877116988647666598
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_137: 4429529031517215004
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_138: -6063704041905305884
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_139: -5994878688857699012
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_14: 6843749831725100185
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_140: -4543832230662568241
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_141: 2136254222974097368
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_142: -8317611410605952364
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_143: 3528993662830972608
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_144: -2511368082941563710
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_145: 7800583773608937304
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_146: 5572808483338222352
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_147: -4504592966376114594
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_148: 4248852868648324654
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_149: -1678086198888549752
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_15: 1766608871837165220
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_150: 7541950768585995024
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_151: 8484423876715696502
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_16: -4557795446391290572
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_17: -4238774793432001954
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_18: -3940665536810842523
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_19: 2037325296766308862
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_2: -1424804666984712988
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_20: 2941979061704337632
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_21: 1252731196575110427
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_22: 6476148021421765551
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_23: 8451955909711585105
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_24: -3188996628033842840
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_25: -8251819204351096579
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_26: 6029028805644993510
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_27: -1774600054287364410
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_28: 8779538622177578457
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_29: 6502342579952437514
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_3: -1381706171998246849
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_30: 409263140920766063
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_31: -430692734766466262
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_32: -5646021091218211256
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_33: 216789968958716580
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_34: -7235897187329282599
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_35: -4471967333786532519
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_36: -887479758765077642
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_37: 1295104542690744024
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_38: 1323432436033168712
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_39: -5497117413240592232
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_4: -4230496002042087746
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_40: 360661768223302431
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_41: -5547224534784044331
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_42: 557898234474270786
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_43: -8962107375779767898
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_44: 5233876469189723546
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_45: 445490594265605754
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_46: -7355850592188239414
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_47: -4459820012762441786
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_48: 4305017774548284071
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_49: 1927921163375901177
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_5: 5374078764919222897
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_50: 2724397590453758162
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_51: 5109228574071445629
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_52: -970685570425300421
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_53: -2697211144916968548
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_54: -5940259285208627149
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_55: 3248119634835311550
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_56: -8047169969742092226
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_57: 1402247793584316699
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_58: 3063589188136867851
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_59: -6624618344462874848
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_6: -1004596613184947693
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_60: -3011096513575076402
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_61: -5809088286729490320
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_62: 6287180371467735131
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_63: 4969902175297016342
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_64: -2813843471247062672
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_65: 5422200337976308056
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_66: -6419177357850401955
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_67: -4099718453669723898
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_68: -3331999341084621443
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_69: -8499263196478833977
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_7: 3379733454637155020
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_70: -4007372165554266475
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_71: -6166904888718961884
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_72: 6793848360639728623
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_73: 2697562961069077045
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_74: -1653026484748707179
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_75: 112586084487743160
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_76: 6695037349681139547
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_77: -1582467426675178893
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_78: 7498498443904813797
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_79: -6016878132321521683
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_8: 6681176571041433505
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_80: -4305013373437640710
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_81: 8691281911054568455
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_82: 2035178549999035168
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_83: 5222015649451290507
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_84: 7880522056398774212
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_85: 5025387562524795769
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_86: -2663078209386987480
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_87: 1020421196908319429
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_88: 5034629077478304900
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_89: -4058983188208140585
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_9: 5446902586024919906
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_90: 3546598511188284156
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_91: -5780621897155171887
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_92: 7482456490994220536
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_93: 9089033563141557598
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_94: 5578338578186437137
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_95: -3095813648910644031
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_96: 2358414952864249013
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_97: -3744975603439552690
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_98: -4859941896531542458
+      PC _ Computer - Heroes of Might and Magic 3 - Necropolis Units - Skeleton_99: 7815901214094160632
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

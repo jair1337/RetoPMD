@@ -1,0 +1,2589 @@
+fileFormatVersion: 2
+guid: 55db547c5bfe7124c83717583e82497e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 945782100903141157
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_0
+  - first:
+      213: 109542004390116867
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_1
+  - first:
+      213: 7530863370101825650
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_2
+  - first:
+      213: -1207437541390481746
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_3
+  - first:
+      213: 4358037216710099183
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_4
+  - first:
+      213: 1520705670317119687
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_5
+  - first:
+      213: -8298123023147650835
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_6
+  - first:
+      213: -8645063412096445192
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_7
+  - first:
+      213: 8679806495902978802
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_8
+  - first:
+      213: 6502754780541253084
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_9
+  - first:
+      213: -1350331853210699900
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_10
+  - first:
+      213: -2167636386604474190
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_11
+  - first:
+      213: 8371387069628529985
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_12
+  - first:
+      213: -8175430395318801913
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_13
+  - first:
+      213: -3700392906194604584
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_14
+  - first:
+      213: 5612318990859724369
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_15
+  - first:
+      213: 4616634480782427183
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_16
+  - first:
+      213: -6539712992442451807
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_17
+  - first:
+      213: -6410372219831318984
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_18
+  - first:
+      213: 4872584143410397514
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_19
+  - first:
+      213: 5407395796243696549
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_20
+  - first:
+      213: -8890548592670687167
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_21
+  - first:
+      213: -965380576704370882
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_22
+  - first:
+      213: 2860079569758000255
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_23
+  - first:
+      213: -5184477120470136521
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_24
+  - first:
+      213: -1065927864967297684
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_25
+  - first:
+      213: 7512383773891594044
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_26
+  - first:
+      213: 7715694417150884289
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_27
+  - first:
+      213: -6849163766092382766
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_28
+  - first:
+      213: 6081463906267992314
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_29
+  - first:
+      213: 1450201827469274066
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_30
+  - first:
+      213: -5460578803950881968
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_31
+  - first:
+      213: -1599780306003848261
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_32
+  - first:
+      213: -4594046448508427284
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_33
+  - first:
+      213: -3624427916290428675
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_34
+  - first:
+      213: 8609869123996218670
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_35
+  - first:
+      213: 7647123843100600613
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_36
+  - first:
+      213: 4796983871600755327
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_37
+  - first:
+      213: 3810446733881869445
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_38
+  - first:
+      213: 4295019676156110637
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_39
+  - first:
+      213: -8649088248746625211
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_40
+  - first:
+      213: 3930261945162071546
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_41
+  - first:
+      213: -3764403194203600247
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_42
+  - first:
+      213: 5972896969238797323
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_43
+  - first:
+      213: 379568734683323800
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_44
+  - first:
+      213: -3615633992463982464
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_45
+  - first:
+      213: 6811257565892228874
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_46
+  - first:
+      213: -1146237783170863515
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_47
+  - first:
+      213: -3991045230367360244
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_48
+  - first:
+      213: 2353193513069192855
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_49
+  - first:
+      213: -499328924535817528
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_50
+  - first:
+      213: -8632855268031994066
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_51
+  - first:
+      213: -1131808477862753189
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_52
+  - first:
+      213: 1740275040620601809
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_53
+  - first:
+      213: 2335056862320639425
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_54
+  - first:
+      213: 1107217267790222094
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_55
+  - first:
+      213: -6395147211476274622
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_56
+  - first:
+      213: 1260882172273002618
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_57
+  - first:
+      213: 95421870045471412
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_58
+  - first:
+      213: 3262822898737473844
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_59
+  - first:
+      213: 3351346048140807632
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_60
+  - first:
+      213: -513931212867884141
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_61
+  - first:
+      213: 5089808269359861125
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_62
+  - first:
+      213: 3909056582722197266
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_63
+  - first:
+      213: 934860640818350036
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_64
+  - first:
+      213: -2832855099128685979
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_65
+  - first:
+      213: -3968036497491021847
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_66
+  - first:
+      213: 5180787586922288515
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_67
+  - first:
+      213: -5712812481272861771
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_68
+  - first:
+      213: 4481502389481719706
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_69
+  - first:
+      213: 7365893936610816547
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_70
+  - first:
+      213: -5518363209255166494
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_71
+  - first:
+      213: -7332869889562136496
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_72
+  - first:
+      213: -2111211218422651768
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_73
+  - first:
+      213: 2432418429729648038
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_74
+  - first:
+      213: 2832411166523147760
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_75
+  - first:
+      213: 5883865295664752732
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_76
+  - first:
+      213: 6260804117769184844
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_77
+  - first:
+      213: -6850848673396613193
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_78
+  - first:
+      213: 4907476277780813335
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_79
+  - first:
+      213: -4866236548044359504
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_80
+  - first:
+      213: 5150354905271777826
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_81
+  - first:
+      213: 4656783516848502816
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_82
+  - first:
+      213: -8801600034973776107
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_83
+  - first:
+      213: 415359073756740673
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_84
+  - first:
+      213: 3992146271658693669
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_85
+  - first:
+      213: 4462544619019572527
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_86
+  - first:
+      213: 6023394600637410634
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_87
+  - first:
+      213: -1374475127205085315
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_88
+  - first:
+      213: -1625131970396494787
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_89
+  - first:
+      213: -4840640095035455533
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_90
+  - first:
+      213: 8554541395414182120
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_91
+  - first:
+      213: 585375368037283305
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_92
+  - first:
+      213: 4785774852506796126
+    second: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 608
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f114f4fc7102d00800000000000000
+      internalID: 945782100903141157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 607
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e38a36fdb258100800000000000000
+      internalID: 109542004390116867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 607
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270abeab550038860800000000000000
+      internalID: 7530863370101825650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 607
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea603f014f15e3fe0800000000000000
+      internalID: -1207437541390481746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 607
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe000fb32cbda7c30800000000000000
+      internalID: 4358037216710099183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_5
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 606
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c89c2700c1aa1510800000000000000
+      internalID: 1520705670317119687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_6
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 606
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de03bc6631527dc80800000000000000
+      internalID: -8298123023147650835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 607
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4d34551a0960880800000000000000
+      internalID: -8645063412096445192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_8
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 615
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2dc6b350ed47870800000000000000
+      internalID: 8679806495902978802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_9
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 592
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd572a3150d6e3a50800000000000000
+      internalID: 6502754780541253084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_10
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 592
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4873b787558a24de0800000000000000
+      internalID: -1350331853210699900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_11
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 592
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0aa36e0320be1e0800000000000000
+      internalID: -2167636386604474190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_12
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 592
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14db182bf242d2470800000000000000
+      internalID: 8371387069628529985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 592
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a6719ee590b8e80800000000000000
+      internalID: -8175430395318801913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_14
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 589
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd25e0e14095acc0800000000000000
+      internalID: -3700392906194604584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_15
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 576
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1566f580366f2ed40800000000000000
+      internalID: 5612318990859724369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_16
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 576
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f244bdca994911040800000000000000
+      internalID: 4616634480782427183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_17
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 576
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8f578aea54e35a0800000000000000
+      internalID: -6539712992442451807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_18
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 576
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8360ceefd68c907a0800000000000000
+      internalID: -6410372219831318984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_19
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 576
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a418d2e5675ee9340800000000000000
+      internalID: 4872584143410397514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_20
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 573
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abcb0bb3ddea0b40800000000000000
+      internalID: 5407395796243696549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 487
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140c38bb82d6e9480800000000000000
+      internalID: -8890548592670687167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 486
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e376974fa774a92f0800000000000000
+      internalID: -965380576704370882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 487
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7417c0273b01b720800000000000000
+      internalID: 2860079569758000255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_24
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 487
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739cc3807890d08b0800000000000000
+      internalID: -5184477120470136521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_25
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 487
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c650f6c11401531f0800000000000000
+      internalID: -1065927864967297684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_26
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 488
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3787337d39514860800000000000000
+      internalID: 7512383773891594044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_27
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 487
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c93eb16137a31b60800000000000000
+      internalID: 7715694417150884289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_28
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 486
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd3699d7d1e2f0a0800000000000000
+      internalID: -6849163766092382766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_29
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 537
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af09677a333b56450800000000000000
+      internalID: 6081463906267992314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 352
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbadeae0e6202410800000000000000
+      internalID: 1450201827469274066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 351
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053fa7a52802834b0800000000000000
+      internalID: -5460578803950881968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_32
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 352
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb399f5a9407cc9e0800000000000000
+      internalID: -1599780306003848261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_33
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 352
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3a20b681bae30c0800000000000000
+      internalID: -4594046448508427284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_34
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 354
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0ff7f530273bdc0800000000000000
+      internalID: -3624427916290428675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_35
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 354
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25f56ae9566c7770800000000000000
+      internalID: 8609869123996218670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_36
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 354
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5296e6d7e9a002a60800000000000000
+      internalID: 7647123843100600613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_37
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 354
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f728a0c6a6f429240800000000000000
+      internalID: 4796983871600755327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_38
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 356
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5848398ad1d61e430800000000000000
+      internalID: 3810446733881869445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_39
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 329
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d272994b3a9fa9b30800000000000000
+      internalID: 4295019676156110637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_40
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 329
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547b376001448f780800000000000000
+      internalID: -8649088248746625211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_41
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 329
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdfe9b6a681b8630800000000000000
+      internalID: 3930261945162071546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_42
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 329
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a06225d3722cbc0800000000000000
+      internalID: -3764403194203600247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_43
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 329
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c5c73d52ef3e250800000000000000
+      internalID: 5972896969238797323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_44
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 326
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dd4aec0cf744500800000000000000
+      internalID: 379568734683323800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 231
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0806b515a00b2ddc0800000000000000
+      internalID: -3615633992463982464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_46
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 232
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07b2b82ba2768e50800000000000000
+      internalID: 6811257565892228874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 232
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e28f92fceb710f0800000000000000
+      internalID: -1146237783170863515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_48
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 231
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bbf692285fc98c0800000000000000
+      internalID: -3991045230367360244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_49
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 231
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7962e3a480938a020800000000000000
+      internalID: 2353193513069192855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_50
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 231
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8caf6fa1df60219f0800000000000000
+      internalID: -499328924535817528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_51
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 231
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27e79f5fdfe13880800000000000000
+      internalID: -8632855268031994066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_52
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 231
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c073b9f220b40f0800000000000000
+      internalID: -1131808477862753189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_53
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 288
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d16ba7dde2b62810800000000000000
+      internalID: 1740275040620601809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_54
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 93
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdb5f838d9c76020800000000000000
+      internalID: 2335056862320639425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 94
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0390df1d30ad5f00800000000000000
+      internalID: 1107217267790222094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 93
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24270ad7e7fdf37a0800000000000000
+      internalID: -6395147211476274622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_57
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 89
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7884fdb7ad8f7110800000000000000
+      internalID: 1260882172273002618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_58
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 101
+        width: 101
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b22ddb6fa1035100800000000000000
+      internalID: 95421870045471412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_59
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 91
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439e144a320e74d20800000000000000
+      internalID: 3262822898737473844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_60
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 97
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd87de797f528e20800000000000000
+      internalID: 3351346048140807632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_61
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 98
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b260ae8462ed8f0800000000000000
+      internalID: -513931212867884141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_62
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 100
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d4a0e67a1a2a640800000000000000
+      internalID: 5089808269359861125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_63
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 104
+        width: 85
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2171f0c3042cf3630800000000000000
+      internalID: 3909056582722197266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_64
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 123
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7c87abcca49fc00800000000000000
+      internalID: 934860640818350036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_65
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 137
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ad744eb4dafa8d0800000000000000
+      internalID: -2832855099128685979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_66
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 137
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef234f34d3bee8c0800000000000000
+      internalID: -3968036497491021847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_67
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 137
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385914f7cdad5e740800000000000000
+      internalID: 5180787586922288515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_68
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 137
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb2059e05308b0b0800000000000000
+      internalID: -5712812481272861771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_69
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 108
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a974f11edae713e30800000000000000
+      internalID: 4481502389481719706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_70
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 121
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32234e85289e83660800000000000000
+      internalID: 7365893936610816547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_71
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 118
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edd2c216e5da63b0800000000000000
+      internalID: -5518363209255166494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_72
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 121
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050bd78cfa96c3a90800000000000000
+      internalID: -7332869889562136496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_73
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 118
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8842910259873b2e0800000000000000
+      internalID: -2111211218422651768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_74
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 26
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad2621acafa1c120800000000000000
+      internalID: 2432418429729648038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_75
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 24
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5467ef2febe4720800000000000000
+      internalID: 2832411166523147760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_76
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 25
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58a856ff40b7a150800000000000000
+      internalID: 5883865295664752732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 23
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c466fe78c28d2e650800000000000000
+      internalID: 6260804117769184844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_78
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 23
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf1d3ccd65ece0a0800000000000000
+      internalID: -6850848673396613193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_79
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 30
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71618c87cabda1440800000000000000
+      internalID: 4907476277780813335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_80
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 35
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8fac854a7a77cb0800000000000000
+      internalID: -4866236548044359504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_81
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 30
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a3ae3af7cb97740800000000000000
+      internalID: 5150354905271777826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_82
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 23
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02836a59fe730a040800000000000000
+      internalID: 4656783516848502816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_83
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 25
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517825ca66f6ad580800000000000000
+      internalID: -8801600034973776107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_84
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 26
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c718d70e6a3c500800000000000000
+      internalID: 415359073756740673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_85
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 25
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524dd9df1e3f66730800000000000000
+      internalID: 3992146271658693669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_86
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 37
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f251efaffa42eed30800000000000000
+      internalID: 4462544619019572527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_87
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 34
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4daff8d975679350800000000000000
+      internalID: 6023394600637410634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_88
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 37
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fb4527722ecece0800000000000000
+      internalID: -1374475127205085315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_89
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 34
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34e26f451f5279e0800000000000000
+      internalID: -1625131970396494787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_90
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 37
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d706e9fa7792dcb0800000000000000
+      internalID: -4840640095035455533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_91
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 37
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e869024316d7b670800000000000000
+      internalID: 8554541395414182120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_92
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 37
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e53028bbcbaf1800800000000000000
+      internalID: 585375368037283305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_93
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 37
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e504aaa4fdc7a6240800000000000000
+      internalID: 4785774852506796126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_0: 945782100903141157
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_1: 109542004390116867
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_10: -1350331853210699900
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_11: -2167636386604474190
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_12: 8371387069628529985
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_13: -8175430395318801913
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_14: -3700392906194604584
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_15: 5612318990859724369
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_16: 4616634480782427183
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_17: -6539712992442451807
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_18: -6410372219831318984
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_19: 4872584143410397514
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_2: 7530863370101825650
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_20: 5407395796243696549
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_21: -8890548592670687167
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_22: -965380576704370882
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_23: 2860079569758000255
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_24: -5184477120470136521
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_25: -1065927864967297684
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_26: 7512383773891594044
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_27: 7715694417150884289
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_28: -6849163766092382766
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_29: 6081463906267992314
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_3: -1207437541390481746
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_30: 1450201827469274066
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_31: -5460578803950881968
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_32: -1599780306003848261
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_33: -4594046448508427284
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_34: -3624427916290428675
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_35: 8609869123996218670
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_36: 7647123843100600613
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_37: 4796983871600755327
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_38: 3810446733881869445
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_39: 4295019676156110637
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_4: 4358037216710099183
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_40: -8649088248746625211
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_41: 3930261945162071546
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_42: -3764403194203600247
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_43: 5972896969238797323
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_44: 379568734683323800
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_45: -3615633992463982464
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_46: 6811257565892228874
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_47: -1146237783170863515
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_48: -3991045230367360244
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_49: 2353193513069192855
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_5: 1520705670317119687
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_50: -499328924535817528
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_51: -8632855268031994066
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_52: -1131808477862753189
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_53: 1740275040620601809
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_54: 2335056862320639425
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_55: 1107217267790222094
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_56: -6395147211476274622
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_57: 1260882172273002618
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_58: 95421870045471412
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_59: 3262822898737473844
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_6: -8298123023147650835
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_60: 3351346048140807632
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_61: -513931212867884141
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_62: 5089808269359861125
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_63: 3909056582722197266
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_64: 934860640818350036
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_65: -2832855099128685979
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_66: -3968036497491021847
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_67: 5180787586922288515
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_68: -5712812481272861771
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_69: 4481502389481719706
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_7: -8645063412096445192
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_70: 7365893936610816547
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_71: -5518363209255166494
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_72: -7332869889562136496
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_73: -2111211218422651768
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_74: 2432418429729648038
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_75: 2832411166523147760
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_76: 5883865295664752732
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_77: 6260804117769184844
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_78: -6850848673396613193
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_79: 4907476277780813335
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_8: 8679806495902978802
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_80: -4866236548044359504
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_81: 5150354905271777826
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_82: 4656783516848502816
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_83: -8801600034973776107
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_84: 415359073756740673
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_85: 3992146271658693669
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_86: 4462544619019572527
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_87: 6023394600637410634
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_88: -1374475127205085315
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_89: -1625131970396494787
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_9: 6502754780541253084
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_90: -4840640095035455533
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_91: 8554541395414182120
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_92: 585375368037283305
+      PC _ Computer - Ragnarok Online - Enemies - Skeleton (Soldier)_93: 4785774852506796126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
