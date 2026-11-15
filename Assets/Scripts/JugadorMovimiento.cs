@@ -23,7 +23,7 @@ public class PlayerMovement2D : MonoBehaviour
     {
         movement = Vector2.zero;
 
-        // Comprobamos si el teclado está conectado y leemos las teclas WASD o flechas directamente
+        // Teclado (WASD o flechas)
         if (Keyboard.current != null)
         {
             if (Keyboard.current.wKey.isPressed || Keyboard.current.upArrowKey.isPressed)
@@ -39,17 +39,16 @@ public class PlayerMovement2D : MonoBehaviour
         // Normalizamos el vector para evitar que en diagonal se mueva más rápido
         movement = movement.normalized;
 
-        // ==========================================
-        // 1. ACTUALIZAR EL ANIMATOR CON UN BOOLEANO
-        // ==========================================
-        // Si nos estamos moviendo (movement != Vector2.zero), IsWalking será true. Si no, false.
-        bool isMoving = movement != Vector2.zero;
-        animator.SetBool("IsWalking", isMoving); // Asegúrate de que el parámetro en Unity se llame exactamente así (o cámbialo por el nombre que le hayas puesto)
+        // Joystick / botones táctiles (si el teclado no se está usando)
+        if (movement == Vector2.zero && ControlesMoviles.Movimiento.sqrMagnitude > 0.0001f)
+            movement = Vector2.ClampMagnitude(ControlesMoviles.Movimiento, 1f);
 
-        // ==========================================
-        // 2. VOLTEAR EL SPRITE (Izquierda / Derecha)
-        // ==========================================
-        if (movement.x != 0)
+        // Animator: IsWalking true si nos movemos
+        bool isMoving = movement != Vector2.zero;
+        if (animator != null) animator.SetBool("IsWalking", isMoving);
+
+        // Voltear el sprite (Izquierda / Derecha)
+        if (spriteRenderer != null && Mathf.Abs(movement.x) > 0.01f)
         {
             spriteRenderer.flipX = movement.x < 0;
         }

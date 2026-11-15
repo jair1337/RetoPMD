@@ -4,8 +4,10 @@ public class Bullet : MonoBehaviour
 {
     public float speed = 15f;
     public float lifeTime = 3f;
+    public int dano = 10;
 
     private Rigidbody2D rb;
+    private bool usada;
 
     void Awake()
     {
@@ -14,23 +16,28 @@ public class Bullet : MonoBehaviour
 
     void Start()
     {
-        // Forzamos a que la bala se mueva en la dirección local "hacia la derecha" (transform.right) 
-        // o puedes cambiarlo a transform.up si tu bala visualmente apunta hacia arriba.
+        // Se mueve hacia transform.right (cambia a transform.up si tu sprite apunta hacia arriba)
         if (rb != null)
         {
-            rb.linearVelocity = transform.right * speed; // Usa rb.velocity si estás en una versión anterior a Unity 6
+            rb.linearVelocity = transform.right * speed;
         }
 
-        // Destruye la bala después de unos segundos para que no sature el juego
         Destroy(gameObject, lifeTime);
     }
 
-    void OnTriggerEnter2D(Collider2D collision)
+    void OnTriggerEnter2D(Collider2D other)
     {
-        // Evita que la bala colisione con el propio jugador si este tiene un collider sólido
-        if (collision.CompareTag("Player")) return;
+        if (usada) return;
+        if (other.CompareTag("Player")) return;
 
-        // Destruye la bala al impactar con cualquier otra cosa
+        // Los triggers (rangos de detección, zonas...) no cuentan como impacto
+        if (other.isTrigger) return;
+
+        IDanable objetivo = other.GetComponentInParent<IDanable>();
+        if (objetivo != null) objetivo.RecibirDano(dano);
+
+        // Impacta contra enemigos, jefe o cualquier cosa sólida (casas, muros...)
+        usada = true;
         Destroy(gameObject);
     }
 }
