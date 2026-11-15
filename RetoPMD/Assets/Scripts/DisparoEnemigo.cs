@@ -8,7 +8,7 @@ public class DisparoEnemigo : MonoBehaviour
     public float tiempoEntreDisparos = 1.5f; // Cadencia de fuego
     
     private float tiempoUltimoDisparo;
-    private Transform jugador;
+    private Transform jugador;                                                                                                              
     private bool jugadorEnRango = false;
 
     void Start()
