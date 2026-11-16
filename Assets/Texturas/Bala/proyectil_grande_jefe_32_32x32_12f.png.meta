@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 807b93f6838106b4688e5875904d6c29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8447896637630452793
+    second: proyectil_grande_jefe_32_32x32_12f_0
+  - first:
+      213: 9033770427588568123
+    second: proyectil_grande_jefe_32_32x32_12f_1
+  - first:
+      213: 1143152988585207481
+    second: proyectil_grande_jefe_32_32x32_12f_2
+  - first:
+      213: -838622763478050226
+    second: proyectil_grande_jefe_32_32x32_12f_3
+  - first:
+      213: -5486960473670594669
+    second: proyectil_grande_jefe_32_32x32_12f_4
+  - first:
+      213: 5140178889154446745
+    second: proyectil_grande_jefe_32_32x32_12f_5
+  - first:
+      213: -4359553422826644554
+    second: proyectil_grande_jefe_32_32x32_12f_6
+  - first:
+      213: 3819986870524795902
+    second: proyectil_grande_jefe_32_32x32_12f_7
+  - first:
+      213: -3506340928883492189
+    second: proyectil_grande_jefe_32_32x32_12f_8
+  - first:
+      213: 8911236877225595008
+    second: proyectil_grande_jefe_32_32x32_12f_9
+  - first:
+      213: -4317858702940593551
+    second: proyectil_grande_jefe_32_32x32_12f_10
+  - first:
+      213: -242670644787246042
+    second: proyectil_grande_jefe_32_32x32_12f_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: proyectil_grande_jefe_32_32x32_12f_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbe1d654ca03ca80800000000000000
+      internalID: -8447896637630452793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proyectil_grande_jefe_32_32x32_12f_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3468d647566e5d70800000000000000
+      internalID: 9033770427588568123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proyectil_grande_jefe_32_32x32_12f_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b62c80269b4ddf00800000000000000
+      internalID: 1143152988585207481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proyectil_grande_jefe_32_32x32_12f_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a95523a0d9c54f0800000000000000
+      internalID: -838622763478050226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proyectil_grande_jefe_32_32x32_12f_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f414635866ad3b0800000000000000
+      internalID: -5486960473670594669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proyectil_grande_jefe_32_32x32_12f_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99543024775955740800000000000000
+      internalID: 5140178889154446745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proyectil_grande_jefe_32_32x32_12f_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb54158241cf73c0800000000000000
+      internalID: -4359553422826644554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proyectil_grande_jefe_32_32x32_12f_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb5940d1d1530530800000000000000
+      internalID: 3819986870524795902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proyectil_grande_jefe_32_32x32_12f_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa7c78a089f65fc0800000000000000
+      internalID: -3506340928883492189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proyectil_grande_jefe_32_32x32_12f_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0809460e9b21bab70800000000000000
+      internalID: 8911236877225595008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proyectil_grande_jefe_32_32x32_12f_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172a5ecf262e314c0800000000000000
+      internalID: -4317858702940593551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proyectil_grande_jefe_32_32x32_12f_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c8a04955cd1acf0800000000000000
+      internalID: -242670644787246042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      proyectil_grande_jefe_32_32x32_12f_0: -8447896637630452793
+      proyectil_grande_jefe_32_32x32_12f_1: 9033770427588568123
+      proyectil_grande_jefe_32_32x32_12f_10: -4317858702940593551
+      proyectil_grande_jefe_32_32x32_12f_11: -242670644787246042
+      proyectil_grande_jefe_32_32x32_12f_2: 1143152988585207481
+      proyectil_grande_jefe_32_32x32_12f_3: -838622763478050226
+      proyectil_grande_jefe_32_32x32_12f_4: -5486960473670594669
+      proyectil_grande_jefe_32_32x32_12f_5: 5140178889154446745
+      proyectil_grande_jefe_32_32x32_12f_6: -4359553422826644554
+      proyectil_grande_jefe_32_32x32_12f_7: 3819986870524795902
+      proyectil_grande_jefe_32_32x32_12f_8: -3506340928883492189
+      proyectil_grande_jefe_32_32x32_12f_9: 8911236877225595008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

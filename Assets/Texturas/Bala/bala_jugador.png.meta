@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 54274d966af9fe44d954302589f7cf6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4771809958306203580
+    second: bala_jugador_0
+  - first:
+      213: 6363271100811908980
+    second: bala_jugador_1
+  - first:
+      213: -1483234596406362255
+    second: bala_jugador_2
+  - first:
+      213: 3785146931618618830
+    second: bala_jugador_3
+  - first:
+      213: -7952102807545347480
+    second: bala_jugador_4
+  - first:
+      213: -578404445775104994
+    second: bala_jugador_5
+  - first:
+      213: -3685693680854865584
+    second: bala_jugador_6
+  - first:
+      213: -1900433162062464308
+    second: bala_jugador_7
+  - first:
+      213: 2471905945499453447
+    second: bala_jugador_8
+  - first:
+      213: 3128119478391506022
+    second: bala_jugador_9
+  - first:
+      213: 2669024450626979756
+    second: bala_jugador_10
+  - first:
+      213: 5465596909101407214
+    second: bala_jugador_11
+  - first:
+      213: 6312938725684205826
+    second: bala_jugador_12
+  - first:
+      213: -463716020774490317
+    second: bala_jugador_13
+  - first:
+      213: -7550806451476717858
+    second: bala_jugador_14
+  - first:
+      213: -4838793168181664289
+    second: bala_jugador_15
+  - first:
+      213: 7027531431699306092
+    second: bala_jugador_16
+  - first:
+      213: -1787088989626030692
+    second: bala_jugador_17
+  - first:
+      213: 1336008096872578742
+    second: bala_jugador_18
+  - first:
+      213: 6479911711115948188
+    second: bala_jugador_19
+  - first:
+      213: 8062581531122596786
+    second: bala_jugador_20
+  - first:
+      213: 358774115846877560
+    second: bala_jugador_21
+  - first:
+      213: -7434535341320215124
+    second: bala_jugador_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bala_jugador_0
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 207
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448bc73002027cdb0800000000000000
+      internalID: -4771809958306203580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f8583ce0d35194f4e8ace5a392783190
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bala_jugador_0: -4771809958306203580
+      bala_jugador_1: 6363271100811908980
+      bala_jugador_10: 2669024450626979756
+      bala_jugador_11: 5465596909101407214
+      bala_jugador_12: 6312938725684205826
+      bala_jugador_13: -463716020774490317
+      bala_jugador_14: -7550806451476717858
+      bala_jugador_15: -4838793168181664289
+      bala_jugador_16: 7027531431699306092
+      bala_jugador_17: -1787088989626030692
+      bala_jugador_18: 1336008096872578742
+      bala_jugador_19: 6479911711115948188
+      bala_jugador_2: -1483234596406362255
+      bala_jugador_20: 8062581531122596786
+      bala_jugador_21: 358774115846877560
+      bala_jugador_22: -7434535341320215124
+      bala_jugador_3: 3785146931618618830
+      bala_jugador_4: -7952102807545347480
+      bala_jugador_5: -578404445775104994
+      bala_jugador_6: -3685693680854865584
+      bala_jugador_7: -1900433162062464308
+      bala_jugador_8: 2471905945499453447
+      bala_jugador_9: 3128119478391506022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
