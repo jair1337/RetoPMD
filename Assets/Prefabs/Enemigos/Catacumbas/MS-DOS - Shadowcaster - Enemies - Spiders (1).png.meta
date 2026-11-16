@@ -1,0 +1,1315 @@
+fileFormatVersion: 2
+guid: 41fdb7e1b7ecc544d8fc7ff1bf28d99b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3546415484549446100
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_0
+  - first:
+      213: 648195695995594666
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_1
+  - first:
+      213: -7069858952924372069
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_2
+  - first:
+      213: -3458087147328707054
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_3
+  - first:
+      213: -7105682012499807956
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_4
+  - first:
+      213: 6317748410397032157
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_5
+  - first:
+      213: 4826180980162888445
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_6
+  - first:
+      213: 7531422390353616624
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_7
+  - first:
+      213: 4740593791793383380
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_8
+  - first:
+      213: -4491228528763449188
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_9
+  - first:
+      213: -6335846072646010275
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_10
+  - first:
+      213: 5452120818832166512
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_11
+  - first:
+      213: 4923447894262944919
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_12
+  - first:
+      213: -1682862379302445292
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_13
+  - first:
+      213: -1251885232972809164
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_14
+  - first:
+      213: -1518769208008130534
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_15
+  - first:
+      213: -52605722934471578
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_16
+  - first:
+      213: -6039562619485383554
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_17
+  - first:
+      213: -1845886174249448088
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_18
+  - first:
+      213: 9104784093259826023
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_19
+  - first:
+      213: -6990967092446104282
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_20
+  - first:
+      213: 6125046432729766359
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_21
+  - first:
+      213: -7169433759054289471
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_22
+  - first:
+      213: -1566422431864229430
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_23
+  - first:
+      213: -5012203900820052786
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_24
+  - first:
+      213: 187978295454474770
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_25
+  - first:
+      213: -8329622131866362873
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_26
+  - first:
+      213: 1038946234472766623
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_27
+  - first:
+      213: 2015135102244191975
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_28
+  - first:
+      213: 503283488196200367
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_29
+  - first:
+      213: 5057454377566463049
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_30
+  - first:
+      213: 7689746122811197635
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_31
+  - first:
+      213: 6490810714335395031
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_32
+  - first:
+      213: -2734534741242859997
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_33
+  - first:
+      213: -6474419598806033186
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_34
+  - first:
+      213: 4578221063796099724
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_35
+  - first:
+      213: -2139256707949930655
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_36
+  - first:
+      213: -347572086093545797
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_37
+  - first:
+      213: 3671655661977001299
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_38
+  - first:
+      213: -8013977452077514707
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_39
+  - first:
+      213: -8320846397206806068
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_40
+  - first:
+      213: 1560457998605739261
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_41
+  - first:
+      213: -4872020770203165773
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_42
+  - first:
+      213: 7333580537633199917
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_43
+  - first:
+      213: 5446072303343983275
+    second: MS-DOS - Shadowcaster - Enemies - Spiders (1)_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 122
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9b38ee716673130800000000000000
+      internalID: 3546415484549446100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 256
+        width: 84
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa721cc1d8adef800800000000000000
+      internalID: 648195695995594666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93e3d27db0d2ed90800000000000000
+      internalID: -7069858952924372069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 258
+        width: 77
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216e02daf086200d0800000000000000
+      internalID: -3458087147328707054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 255
+        width: 169
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21f01e6bdb836d90800000000000000
+      internalID: -7105682012499807956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 253
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddef006d4b62da750800000000000000
+      internalID: 6317748410397032157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_6
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 254
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df20b50080a0af240800000000000000
+      internalID: 4826180980162888445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 203
+        width: 80
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe5376c2ccf48860800000000000000
+      internalID: 7531422390353616624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 200
+        width: 162
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d74448dfe8f9c140800000000000000
+      internalID: 4740593791793383380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 198
+        width: 164
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9054f9d273fba1c0800000000000000
+      internalID: -4491228528763449188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 195
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a7160d09d8218a0800000000000000
+      internalID: -6335846072646010275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 192
+        width: 162
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ec0078ff2d9ab40800000000000000
+      internalID: 5452120818832166512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 148
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79410b736c9935440800000000000000
+      internalID: 4923447894262944919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 146
+        width: 93
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f1fcb059545a8e0800000000000000
+      internalID: -1682862379302445292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 141
+        width: 87
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c391d630960aee0800000000000000
+      internalID: -1251885232972809164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_15
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 146
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10cfdcb37f3ceae0800000000000000
+      internalID: -1518769208008130534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_16
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 144
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664965baf5b154ff0800000000000000
+      internalID: -52605722934471578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_17
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 144
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7498daebc92f2ca0800000000000000
+      internalID: -6039562619485383554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_18
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 139
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d8e00fd481266e0800000000000000
+      internalID: -1845886174249448088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_19
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 141
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7630163c4e0ba5e70800000000000000
+      internalID: 9104784093259826023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 398
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625fd4a18781bfe90800000000000000
+      internalID: -6990967092446104282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 24
+        width: 231
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d991a75749800550800000000000000
+      internalID: 6125046432729766359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_22
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 91
+        width: 92
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c520ee3bfd018c90800000000000000
+      internalID: -7169433759054289471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 90
+        width: 91
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac17784f813f24ae0800000000000000
+      internalID: -1566422431864229430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 90
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec42bc5ab13117ab0800000000000000
+      internalID: -5012203900820052786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_25
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 91
+        width: 72
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2122c068345db9200800000000000000
+      internalID: 187978295454474770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_26
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 90
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c9fd4adcc376c80800000000000000
+      internalID: -8329622131866362873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_27
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 92
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c9a7e78141b6e00800000000000000
+      internalID: 1038946234472766623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_28
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 91
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee7fa7e2b237fb10800000000000000
+      internalID: 2015135102244191975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_29
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 62
+        width: 90
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7014f7aa50cf600800000000000000
+      internalID: 503283488196200367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_30
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 62
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944e79af5ffaf2640800000000000000
+      internalID: 5057454377566463049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_31
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 62
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8491f4b5777ba60800000000000000
+      internalID: 7689746122811197635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_32
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 61
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcb24474fdf31a50800000000000000
+      internalID: 6490810714335395031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_33
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 61
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e214a142bfc0ad0800000000000000
+      internalID: -2734534741242859997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_34
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 60
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcd6568dad3626a0800000000000000
+      internalID: -6474419598806033186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_35
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 61
+        width: 91
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a07c21dcb198f30800000000000000
+      internalID: 4578221063796099724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_36
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 63
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167d54fbb55df42e0800000000000000
+      internalID: -2139256707949930655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_37
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 42
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe7d8a770d2d2bf0800000000000000
+      internalID: -347572086093545797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_38
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 41
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dd0bd0f5754f230800000000000000
+      internalID: 3671655661977001299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_39
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 39
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d200eea97f1a8c090800000000000000
+      internalID: -8013977452077514707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_40
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 41
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc146e7994a668c80800000000000000
+      internalID: -8320846397206806068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_41
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 38
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4efc5384cd7a510800000000000000
+      internalID: 1560457998605739261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_42
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 204
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb17bd2cea136cb0800000000000000
+      internalID: -4872020770203165773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_43
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 8
+        width: 192
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27585dd4ac16c560800000000000000
+      internalID: 7333580537633199917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Shadowcaster - Enemies - Spiders (1)_44
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 8
+        width: 170
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa59e5c7e5549b40800000000000000
+      internalID: 5446072303343983275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_0: 3546415484549446100
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_1: 648195695995594666
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_10: -6335846072646010275
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_11: 5452120818832166512
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_12: 4923447894262944919
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_13: -1682862379302445292
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_14: -1251885232972809164
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_15: -1518769208008130534
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_16: -52605722934471578
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_17: -6039562619485383554
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_18: -1845886174249448088
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_19: 9104784093259826023
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_2: -7069858952924372069
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_20: -6990967092446104282
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_21: 6125046432729766359
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_22: -7169433759054289471
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_23: -1566422431864229430
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_24: -5012203900820052786
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_25: 187978295454474770
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_26: -8329622131866362873
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_27: 1038946234472766623
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_28: 2015135102244191975
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_29: 503283488196200367
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_3: -3458087147328707054
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_30: 5057454377566463049
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_31: 7689746122811197635
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_32: 6490810714335395031
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_33: -2734534741242859997
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_34: -6474419598806033186
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_35: 4578221063796099724
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_36: -2139256707949930655
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_37: -347572086093545797
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_38: 3671655661977001299
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_39: -8013977452077514707
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_4: -7105682012499807956
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_40: -8320846397206806068
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_41: 1560457998605739261
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_42: -4872020770203165773
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_43: 7333580537633199917
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_44: 5446072303343983275
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_5: 6317748410397032157
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_6: 4826180980162888445
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_7: 7531422390353616624
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_8: 4740593791793383380
+      MS-DOS - Shadowcaster - Enemies - Spiders (1)_9: -4491228528763449188
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
