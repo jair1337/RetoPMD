@@ -1,0 +1,11 @@
+Eco 99 · Nivel 3 · Cementerio
+
+Gráficos recuperados del ZIP original del nivel.
+- Mausoleo y zombis recortados de Haunted Cemetery (Pirates: Tides of Fortune).
+  Extracción original: sutinoer.
+  https://www.spriters-resource.com/pc_computer/piratestidesoffortune/asset/82184/
+- Jefe recortado de Commander Skeleton (MapleStory). Extracción original: Boo.
+  https://www.spriters-resource.com/pc_computer/maplestory/asset/24202/
+- Protagonista y disparo del jugador: hojas originales incluidas en el proyecto del equipo.
+- Lápidas, cruces, árboles, verjas, braseros, manzanas, orbe y suelo:
+  atlas Decoracion.png y fondo SueloCementerio.png del ZIP del nivel.

@@ -1,0 +1,19 @@
+ECO 99 — PROYECTO DE LOS TRES NIVELES
+Unity 6000.6.5f1
+
+1. Descomprime el ZIP y añade a Unity Hub la carpeta que contiene Assets,
+   Packages y ProjectSettings.
+2. Abre Assets/Scenes/Menu.unity y pulsa Play > Jugar.
+3. Poblado (Jair): completa el recorrido y derrota al jefe.
+   Catacumbas (Inés): derrota al jefe para abrir el Cementerio.
+   Cementerio (Mikel): explora los nueve sectores y derrota a los zombis
+   y al guardián. Las manzanas recuperan 3 puntos de vida.
+
+El juego avanza tras vencer al jefe, con una pausa de tres segundos.
+Para probar el nivel 3 directamente, abre Assets/Scenes/Nivel3_Cementerio.unity.
+Para editar el mapa, detén Play y usa Tools > Eco 99 > Abrir Cementerio en 2D.
+En Hierarchy, el objeto Mapa original del Cementerio contiene la imagen del
+suelo, el mausoleo y las decoraciones editables. La niebla aparece en Game.
+
+Fuentes del juego: main y Mikel (b240438), Ines (7ef7e14) y la escena del
+ZIP original del Cementerio con sus imágenes. Consulta CREDITOS.txt.

@@ -111,6 +111,7 @@ public class EncuentroJefe : MonoBehaviour
         if (bossMusic != null) bossMusic.Stop();
 
         alTerminar?.Invoke();
+        Eco99.ProgresionEco99.CompletarNivel();
     }
 
     void OnDrawGizmos()

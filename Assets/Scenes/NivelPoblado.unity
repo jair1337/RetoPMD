@@ -57401,7 +57401,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 71204ab6db105314cb619481a7c6cfde, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::JugadorMovimiento
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement2D
   moveSpeed: 7.5
 --- !u!61 &918581362
 BoxCollider2D:
