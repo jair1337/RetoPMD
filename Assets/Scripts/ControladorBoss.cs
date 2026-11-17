@@ -190,7 +190,31 @@ namespace Eco99.Catacumbas
             derrotado = true;
             Eco99.ProgresionEco99.CompletarNivel();
 
-            // 1. Buscar el objeto de audio "Audioboss" y parar la música de fondo
+            // 1. Activar el trigger en el Animator para iniciar la animación de muerte y crecimiento
+            if (animator != null)
+            {
+                animator.SetTrigger("morir");
+            }
+
+            // 2. Desactivar los scripts de ataque, movimiento y los colliders de daño/colisión con el jugador
+            // (Asegúrate de desactivar tus scripts personalizados de disparo/movimiento del boss)
+            // GetComponent<EnemigoDisparoDistancia>().enabled = false; 
+
+            // Desactivamos el Rigidbody para que no le afecten físicas ni empujes
+            Rigidbody2D rb = GetComponent<Rigidbody2D>();
+            if (rb != null)
+            {
+                rb.simulated = false;
+            }
+
+            // Opcional: Desactivar el collider que hace daño al jugador, pero dejar el objeto en pie
+            Collider2D col = GetComponent<Collider2D>();
+            if (col != null)
+            {
+                col.enabled = false;
+            }
+
+            // 3. Buscar el objeto de audio "Audioboss" y parar la música de fondo
             GameObject objetoMusica = GameObject.Find("Audioboss");
             if (objetoMusica != null)
             {
@@ -199,7 +223,7 @@ namespace Eco99.Catacumbas
                 {
                     fuenteAudio.Stop(); // Para la música de las catacumbas
 
-                    // 2. Reproducir el clip "muerteboss"
+                    // 4. Reproducir el clip "muerteboss"
                     if (muerteboss != null)
                     {
                         fuenteAudio.clip = muerteboss;
@@ -209,8 +233,7 @@ namespace Eco99.Catacumbas
                 }
             }
 
-            // 3. Destruir al jefe un poco más tarde para que dé tiempo a escuchar el audio
-            Destroy(gameObject, 2f);
+            
         }
 
         private void OnTriggerEnter2D(Collider2D collision)
