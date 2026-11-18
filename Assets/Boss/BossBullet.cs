@@ -41,6 +41,7 @@ public class BossBullet : MonoBehaviour
         dir = new Vector2(Mathf.Cos(rad), Mathf.Sin(rad));
 
         float visible = 1f;
+        float extra = 1f;
         Color tinte = color;
         frames = null;
 
@@ -49,6 +50,7 @@ public class BossBullet : MonoBehaviour
             frames = AnimadorSprites.ObtenerFrames(estilo.hoja, estilo.columnas, estilo.filas, estilo.frames, estilo.pixelsPorUnidad);
             fps = estilo.fps;
             visible = Mathf.Max(0.05f, estilo.fraccionVisible);
+            extra = Mathf.Max(0.01f, estilo.escalaSprite);
             tinte = estilo.tinte;
             desfase = Random.value * 10f;
         }
@@ -59,7 +61,7 @@ public class BossBullet : MonoBehaviour
         else spr = BossSprites.Circulo;
 
         // 'escala' = diámetro visible en unidades de mundo, sea cual sea el tamaño del sprite
-        float esc = escala / (Mathf.Max(0.0001f, spr.bounds.size.x) * visible);
+        float esc = escala / (Mathf.Max(0.0001f, spr.bounds.size.x) * visible) * extra;
 
         transform.position = pos;
         transform.rotation = Quaternion.Euler(0f, 0f, anguloGrados);

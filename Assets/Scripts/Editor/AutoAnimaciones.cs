@@ -98,15 +98,9 @@ public static class AutoAnimaciones
     {
         AnimadorSprites a = Asegurar(boss.gameObject);
 
-        Texture2D idle = Buscar("Idle");
-        if (idle != null)
-        {
-            a.idle.hoja = idle;
-            a.idle.columnas = 8;
-            a.idle.filas = 1;
-            a.idle.frames = 0;
-            a.idle.fps = 8f;
-        }
+        // El jefe conserva el sprite que tenga en su SpriteRenderer (JefePoblado): sin hoja de Idle.
+        a.idle = new AnimadorSprites.Clip();
+        a.enabled = true;
         a.respirar = false;
         a.efectoAlMover = false;
         a.golpeDuracion = 0.5f;

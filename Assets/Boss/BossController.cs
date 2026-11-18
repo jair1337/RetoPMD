@@ -36,6 +36,16 @@ public class BossController : MonoBehaviour
     [Tooltip("Divide las pausas: entre ataques, entre oleadas y entre disparos.")]
     public float frecuenciaFase2 = 1.3f;
     public float frecuenciaFase3 = 1.5f;
+    [Tooltip("Fase 4: la última (la vida baja de Umbral Fase 4 en Boss Vida, ~10 %).")]
+    public float velocidadFase4 = 1.5f;
+    public float frecuenciaFase4 = 1.5f;
+
+    [Header("Ataques desbloqueables (Rejilla, Orbes, Dash...)")]
+    [Tooltip("Probabilidad de que el jefe use uno de los ataques que se desbloquean por fase en lugar de un ataque normal o un combo.")]
+    [Range(0f, 1f)] public float probabilidadEspeciales = 0.5f;
+
+    [Tooltip("En la fase 4 el jefe SOLO usa los ataques desbloqueables (Dash, Orbes y Rejilla): sin ataques normales ni combos.")]
+    public bool soloEspecialesEnFase4 = true;
 
     [Header("Fase 3: ataques combinados")]
     [Tooltip("Láseres + Círculos, Lluvia de arriba + Lluvia de abajo, Balas + Círculos.")]
@@ -75,15 +85,18 @@ public class BossController : MonoBehaviour
 
     public float MultiplicadorVelocidad
     {
-        get { return FaseActual >= 3 ? velocidadFase3 : (FaseActual == 2 ? velocidadFase2 : 1f); }
+        get { return FaseActual >= 4 ? velocidadFase4 : (FaseActual == 3 ? velocidadFase3 : (FaseActual == 2 ? velocidadFase2 : 1f)); }
     }
 
     public float MultiplicadorFrecuencia
     {
-        get { return FaseActual >= 3 ? frecuenciaFase3 : (FaseActual == 2 ? frecuenciaFase2 : 1f); }
+        get { return FaseActual >= 4 ? frecuenciaFase4 : (FaseActual == 3 ? frecuenciaFase3 : (FaseActual == 2 ? frecuenciaFase2 : 1f)); }
     }
 
     public bool EnCombo { get; private set; }
+
+    // Posición inicial del jefe (el centro de la arena): el dash vuelve aquí
+    public Vector2 PosicionBase { get; private set; }
 
     float PausaActual { get { return pausaEntreAtaques / Mathf.Max(0.1f, MultiplicadorFrecuencia); } }
 
@@ -111,7 +124,21 @@ public class BossController : MonoBehaviour
             if (vida == null) vida = jugador.GetComponentInParent<Vida>();
         }
 
-        if (ataques == null || ataques.Length == 0) ataques = GetComponents<BossAttack>();
+        PosicionBase = transform.position;
+
+        // Usa todos los ataques del objeto; si hay una lista manual, añade los que falten
+        BossAttack[] todos = GetComponents<BossAttack>();
+        if (ataques == null || ataques.Length == 0)
+        {
+            ataques = todos;
+        }
+        else
+        {
+            List<BossAttack> lista = new List<BossAttack>(ataques);
+            foreach (BossAttack a in todos)
+                if (!lista.Contains(a)) lista.Add(a);
+            ataques = lista.ToArray();
+        }
 
         ActualizarCache();
         bucle = StartCoroutine(Bucle());
@@ -162,7 +189,8 @@ public class BossController : MonoBehaviour
         while (!atacar) yield return null;
         yield return new WaitForSeconds(retrasoInicial);
 
-        int ultimo = -1;
+        BossAttack ultimo = null;
+        BossAttack ultimoEspecial = null;
         int siguiente = 0;
 
         while (true)
@@ -173,7 +201,23 @@ public class BossController : MonoBehaviour
                 continue;
             }
 
-            // Fase 3: dos ataques a la vez
+            // 1) Ataques que se desbloquean por fase (Rejilla en fase 3; Orbes y Dash en fase 4).
+            //    En la fase 4 son los únicos que usa.
+            bool soloEspeciales = soloEspecialesEnFase4 && FaseActual >= 4;
+            if (soloEspeciales || Random.value < probabilidadEspeciales)
+            {
+                BossAttack especial = ElegirEspecial(ultimoEspecial);
+                if (especial != null)
+                {
+                    ultimoEspecial = especial;
+                    if (animador != null) animador.Atacar();
+                    yield return StartCoroutine(especial.Ejecutar(this));
+                    yield return new WaitForSeconds(PausaActual);
+                    continue;
+                }
+            }
+
+            // 2) Fase 3 o más: dos ataques a la vez
             if (combinarEnFase3 && FaseActual >= 3 && Random.value <= probabilidadCombo)
             {
                 BossAttack[] combo = ElegirCombo();
@@ -191,31 +235,47 @@ public class BossController : MonoBehaviour
                 }
             }
 
-            int i;
+            // 3) Ataque normal (los que no están bloqueados por fase)
+            List<BossAttack> normales = new List<BossAttack>();
+            foreach (BossAttack a in ataques)
+                if (a != null && a.isActiveAndEnabled && a.faseMinima <= 1) normales.Add(a);
+
+            if (normales.Count == 0)
+            {
+                yield return null;
+                continue;
+            }
+
+            BossAttack elegido;
             if (ordenAleatorio)
             {
-                i = Random.Range(0, ataques.Length);
-                if (ataques.Length > 1 && i == ultimo) i = (i + 1) % ataques.Length;
+                int i = Random.Range(0, normales.Count);
+                elegido = normales[i];
+                if (normales.Count > 1 && elegido == ultimo) elegido = normales[(i + 1) % normales.Count];
             }
             else
             {
-                i = siguiente % ataques.Length;
+                elegido = normales[siguiente % normales.Count];
                 siguiente++;
             }
 
-            BossAttack a = ataques[i];
-            if (a != null && a.isActiveAndEnabled)
-            {
-                ultimo = i;
-                if (animador != null) animador.Atacar();
-                yield return StartCoroutine(a.Ejecutar(this));
-                yield return new WaitForSeconds(PausaActual);
-            }
-            else
-            {
-                yield return null;
-            }
+            ultimo = elegido;
+            if (animador != null) animador.Atacar();
+            yield return StartCoroutine(elegido.Ejecutar(this));
+            yield return new WaitForSeconds(PausaActual);
         }
+    }
+
+    // Ataques desbloqueables ya disponibles en la fase actual (evita repetir el anterior si hay más de uno)
+    BossAttack ElegirEspecial(BossAttack excluir)
+    {
+        List<BossAttack> lista = new List<BossAttack>();
+        foreach (BossAttack a in ataques)
+            if (a != null && a.isActiveAndEnabled && a.faseMinima > 1 && a.faseMinima <= FaseActual) lista.Add(a);
+
+        if (lista.Count == 0) return null;
+        if (lista.Count > 1) lista.Remove(excluir);
+        return lista[Random.Range(0, lista.Count)];
     }
 
     // Devuelve una pareja de ataques para ejecutar a la vez, o null si faltan componentes
@@ -231,7 +291,7 @@ public class BossController : MonoBehaviour
         {
             foreach (BossAttack a in ataques)
             {
-                if (a == null || !a.isActiveAndEnabled) continue;
+                if (a == null || !a.isActiveAndEnabled || a.faseMinima > FaseActual) continue;
 
                 if (a is AtaqueLaseres) lase = (AtaqueLaseres)a;
                 else if (a is AtaqueCirculos) circ = (AtaqueCirculos)a;

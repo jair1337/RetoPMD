@@ -16,6 +16,16 @@ public class EstiloBala
     [Tooltip("Parte del frame que ocupa el dibujo (el resto es margen transparente). Sirve para que 'Escala' sea el tamaño visible.")]
     [Range(0.2f, 1f)] public float fraccionVisible = 0.75f;
     public Color tinte = Color.white;
+    [Tooltip("Multiplica SOLO el tamaño del dibujo, no la hitbox. Útil para balas alargadas (estelas, espadas).")]
+    public float escalaSprite = 1f;
 
     public bool Valido { get { return hoja != null; } }
+
+    // Copia de este estilo con otro color (para dibujar dos familias de balas con la misma hoja)
+    public EstiloBala ConTinte(Color color)
+    {
+        EstiloBala e = (EstiloBala)MemberwiseClone();
+        e.tinte = color;
+        return e;
+    }
 }

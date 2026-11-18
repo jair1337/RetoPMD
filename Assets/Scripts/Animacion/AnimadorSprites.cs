@@ -133,8 +133,38 @@ public class AnimadorSprites : MonoBehaviour
 
     // ---------- Ciclo de vida ----------
 
+    bool iniciado;
+
     void Awake()
     {
+        Iniciar();
+    }
+
+    void OnEnable()
+    {
+        Iniciar();
+    }
+
+    // Si el componente está desactivado NO se oculta el SpriteRenderer original ni se crea el hijo "Visual".
+    void OnDisable()
+    {
+        if (bossVida != null) bossVida.HaMuerto -= AlMorirJefe;
+
+        if (visT != null)
+        {
+            if (raiz != null) raiz.enabled = true;
+            Destroy(visT.gameObject);
+            visT = null;
+        }
+        vis = null;
+        iniciado = false;
+    }
+
+    void Iniciar()
+    {
+        if (iniciado || !isActiveAndEnabled) return;
+        iniciado = true;
+
         raiz = GetComponent<SpriteRenderer>();
         if (raiz == null)
         {

@@ -30,13 +30,20 @@ public class Bullet : MonoBehaviour
         if (usada) return;
         if (other.CompareTag("Player")) return;
 
-        // Los triggers (rangos de detección, zonas...) no cuentan como impacto
+        // Enemigos, jefe y escudo del jefe (el escudo es un trigger para no bloquear al jugador)
+        IDanable objetivo = other.GetComponentInParent<IDanable>();
+        if (objetivo != null)
+        {
+            objetivo.RecibirDano(dano);
+            usada = true;
+            Destroy(gameObject);
+            return;
+        }
+
+        // Los demás triggers (rangos de detección, zonas...) no cuentan como impacto
         if (other.isTrigger) return;
 
-        IDanable objetivo = other.GetComponentInParent<IDanable>();
-        if (objetivo != null) objetivo.RecibirDano(dano);
-
-        // Impacta contra enemigos, jefe o cualquier cosa sólida (casas, muros...)
+        // Cualquier cosa sólida (casas, muros...)
         usada = true;
         Destroy(gameObject);
     }

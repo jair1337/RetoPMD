@@ -9,6 +9,10 @@ public abstract class BossAttack : MonoBehaviour
     [Header("General")]
     public int dano = 20;
 
+    [Header("Desbloqueo por fases")]
+    [Tooltip("Fase del jefe desde la que se puede usar: 1 = siempre, 3 = morado, 4 = última fase. Los ataques con valor mayor que 1 salen como 'especiales'.")]
+    public int faseMinima = 1;
+
     [Header("Sprites de las balas de este ataque")]
     public EstiloBala estilo = new EstiloBala();
 
@@ -20,6 +24,12 @@ public abstract class BossAttack : MonoBehaviour
     {
         float s = segundos / Mathf.Max(0.1f, boss.MultiplicadorFrecuencia);
         return boss.EnCombo ? s * boss.relajarCombo : s;
+    }
+
+    // Punto aleatorio dentro de la arena (fraccionRadio: 1 = hasta el borde)
+    protected Vector2 PuntoEnArena(BossController boss, float fraccionRadio)
+    {
+        return boss.ArenaCentro + Random.insideUnitCircle * (boss.ArenaRadio * fraccionRadio);
     }
 
     protected WaitForSeconds Esperar(BossController boss, float segundos)

@@ -4,29 +4,42 @@ using UnityEngine;
 using UnityEngine.UI;
 
 // Barra de vida del jefe dentro de tu canvas (UIJugador). Se construye sola, empieza oculta y aparece
-// cuando EncuentroJefe activa al jefe. EncuentroJefe la añade automáticamente si no existe.
-// Los sprites son opcionales: sin ellos usa rectángulos de color.
+// cuando EncuentroJefe activa al jefe.
+// - Sin sprites: barra horizontal arriba, de rectángulos de color.
+// - Con 'Sprite Marco' (p. ej. JefeBarra-removebg-preview): barra VERTICAL en el borde de la pantalla,
+//   con el relleno dentro del tubo del marco.
 public class BarraVidaJefeUI : MonoBehaviour
 {
     [Header("Referencias (se buscan solas)")]
     public BossVida vida;
     public Canvas canvas;
 
-    [Header("Tamaño y posición")]
+    [Header("Barra horizontal (sin sprite de marco)")]
     public Vector2 tamano = new Vector2(560f, 26f);
     public float margenSuperior = 36f;
+
+    [Header("Barra vertical con marco (sprite de la barra del jefe)")]
+    [Tooltip("Desactivado = barra horizontal sencilla (la de antes). Actívalo para usar el marco vertical.")]
+    public bool usarMarco = false;
+    public Sprite spriteMarco;
+    public float alturaMarco = 560f;
+    [Tooltip("Ancla en pantalla: (1, 0.5) = borde derecho, centrado verticalmente.")]
+    public Vector2 anclaje = new Vector2(1f, 0.5f);
+    public Vector2 margenVertical = new Vector2(-30f, 0f);
+    [Tooltip("Hueco del tubo dentro de la TEXTURA original, en píxeles: x, y (desde arriba), ancho, alto. Los valores por defecto son de JefeBarra-removebg-preview.")]
+    public Rect interiorEnTextura = new Rect(155f, 51f, 56f, 406f);
 
     [Header("Nombre")]
     public bool mostrarNombre = true;
     public string nombre = "JEFE";
 
-    [Header("Aspecto (sprites opcionales)")]
-    public Sprite spriteMarco;
+    [Header("Aspecto")]
     public Sprite spriteRelleno;
     public Color colorMarco = new Color(0.05f, 0.03f, 0.08f, 0.85f);
     public Color colorFase1 = new Color(0.8f, 0.15f, 0.2f, 1f);
     public Color colorFase2 = new Color(0.95f, 0.5f, 0.1f, 1f);
     public Color colorFase3 = new Color(0.65f, 0.2f, 0.9f, 1f);
+    public Color colorFase4 = new Color(0.95f, 0.1f, 0.35f, 1f);
     public Color colorRetraso = new Color(1f, 1f, 1f, 0.6f);
     public float velocidadRetraso = 0.5f;
     public float duracionAparicion = 0.6f;
@@ -49,7 +62,9 @@ public class BarraVidaJefeUI : MonoBehaviour
             return;
         }
 
-        Construir();
+        if (usarMarco && spriteMarco != null) ConstruirVertical();
+        else ConstruirHorizontal();
+
         vida.Activada += Mostrar;
         vida.HaMuerto += AlMorir;
     }
@@ -64,7 +79,9 @@ public class BarraVidaJefeUI : MonoBehaviour
         if (raiz != null) Destroy(raiz);
     }
 
-    void Construir()
+    // ---------- Construcción ----------
+
+    void ConstruirHorizontal()
     {
         raiz = new GameObject("BarraVidaJefe", typeof(RectTransform), typeof(CanvasGroup));
         RectTransform rt = (RectTransform)raiz.transform;
@@ -79,54 +96,112 @@ public class BarraVidaJefeUI : MonoBehaviour
         grupo.blocksRaycasts = false;
 
         Image marco = raiz.AddComponent<Image>();
-        marco.sprite = spriteMarco;
-        marco.color = spriteMarco != null ? Color.white : colorMarco;
+        marco.color = colorMarco;
         marco.raycastTarget = false;
 
-        retraso = CrearBarra("Retraso", rt, colorRetraso, 4f);
-        relleno = CrearBarra("Relleno", rt, colorFase1, 4f);
+        Vector2 margen = new Vector2(4f, 4f);
+        retraso = CrearBarra("Retraso", rt, colorRetraso, Vector2.zero, Vector2.one, margen, Image.FillMethod.Horizontal);
+        relleno = CrearBarra("Relleno", rt, colorFase1, Vector2.zero, Vector2.one, margen, Image.FillMethod.Horizontal);
 
-        if (mostrarNombre)
-        {
-            GameObject goT = new GameObject("Nombre", typeof(RectTransform));
-            RectTransform rtT = (RectTransform)goT.transform;
-            rtT.SetParent(rt, false);
-            rtT.anchorMin = Vector2.zero;
-            rtT.anchorMax = Vector2.one;
-            rtT.offsetMin = Vector2.zero;
-            rtT.offsetMax = Vector2.zero;
-
-            TextMeshProUGUI t = goT.AddComponent<TextMeshProUGUI>();
-            t.text = nombre;
-            t.fontSize = 18f;
-            t.fontStyle = FontStyles.Bold;
-            t.alignment = TextAlignmentOptions.Center;
-            t.color = Color.white;
-            t.raycastTarget = false;
-        }
+        if (mostrarNombre) CrearNombre(rt, Vector2.zero, Vector2.one, Vector2.zero, Vector2.zero, new Vector2(0.5f, 0.5f));
 
         raiz.SetActive(false);
     }
 
-    Image CrearBarra(string nombreObjeto, RectTransform padre, Color color, float margen)
+    void ConstruirVertical()
+    {
+        Rect sr = spriteMarco.rect;                          // píxeles en la textura (origen abajo-izquierda)
+        float texAlto = spriteMarco.texture.height;
+        float ancho = alturaMarco * sr.width / sr.height;
+
+        raiz = new GameObject("BarraVidaJefe", typeof(RectTransform), typeof(CanvasGroup));
+        RectTransform rt = (RectTransform)raiz.transform;
+        rt.SetParent(canvas.transform, false);
+        rt.anchorMin = rt.anchorMax = anclaje;
+        rt.pivot = anclaje;
+        rt.anchoredPosition = margenVertical;
+        rt.sizeDelta = new Vector2(ancho, alturaMarco);
+
+        grupo = raiz.GetComponent<CanvasGroup>();
+        grupo.interactable = false;
+        grupo.blocksRaycasts = false;
+
+        // Hueco del tubo, normalizado respecto al sprite (origen abajo-izquierda)
+        float xMin = (interiorEnTextura.x - sr.x) / sr.width;
+        float xMax = (interiorEnTextura.x + interiorEnTextura.width - sr.x) / sr.width;
+        float yTop = texAlto - interiorEnTextura.y;
+        float yBottom = texAlto - (interiorEnTextura.y + interiorEnTextura.height);
+        float yMin = (yBottom - sr.y) / sr.height;
+        float yMax = (yTop - sr.y) / sr.height;
+
+        Vector2 aMin = new Vector2(xMin, yMin);
+        Vector2 aMax = new Vector2(xMax, yMax);
+
+        // Primero los rellenos (detrás) y el marco encima: el tubo del marco es transparente
+        retraso = CrearBarra("Retraso", rt, colorRetraso, aMin, aMax, Vector2.zero, Image.FillMethod.Vertical);
+        relleno = CrearBarra("Relleno", rt, colorFase1, aMin, aMax, Vector2.zero, Image.FillMethod.Vertical);
+
+        GameObject goMarco = new GameObject("Marco", typeof(RectTransform));
+        RectTransform rtM = (RectTransform)goMarco.transform;
+        rtM.SetParent(rt, false);
+        rtM.anchorMin = Vector2.zero;
+        rtM.anchorMax = Vector2.one;
+        rtM.offsetMin = Vector2.zero;
+        rtM.offsetMax = Vector2.zero;
+        Image marco = goMarco.AddComponent<Image>();
+        marco.sprite = spriteMarco;
+        marco.raycastTarget = false;
+
+        if (mostrarNombre)
+            CrearNombre(rt, new Vector2(0.5f, 1f), new Vector2(0.5f, 1f), new Vector2(0f, 6f), new Vector2(320f, 32f), new Vector2(0.5f, 0f));
+
+        raiz.SetActive(false);
+    }
+
+    Image CrearBarra(string nombreObjeto, RectTransform padre, Color color, Vector2 anchorMin, Vector2 anchorMax,
+                     Vector2 margen, Image.FillMethod metodo)
     {
         GameObject go = new GameObject(nombreObjeto, typeof(RectTransform));
         RectTransform r = (RectTransform)go.transform;
         r.SetParent(padre, false);
-        r.anchorMin = Vector2.zero;
-        r.anchorMax = Vector2.one;
-        r.offsetMin = new Vector2(margen, margen);
-        r.offsetMax = new Vector2(-margen, -margen);
+        r.anchorMin = anchorMin;
+        r.anchorMax = anchorMax;
+        r.offsetMin = margen;
+        r.offsetMax = -margen;
 
         Image img = go.AddComponent<Image>();
         img.sprite = spriteRelleno != null ? spriteRelleno : BossSprites.Cuadrado;
         img.color = color;
         img.type = Image.Type.Filled;
-        img.fillMethod = Image.FillMethod.Horizontal;
+        img.fillMethod = metodo;
+        img.fillOrigin = 0;                       // izquierda (horizontal) o abajo (vertical)
         img.fillAmount = 1f;
         img.raycastTarget = false;
         return img;
     }
+
+    void CrearNombre(RectTransform padre, Vector2 anchorMin, Vector2 anchorMax, Vector2 posicion, Vector2 tam, Vector2 pivote)
+    {
+        GameObject goT = new GameObject("Nombre", typeof(RectTransform));
+        RectTransform rtT = (RectTransform)goT.transform;
+        rtT.SetParent(padre, false);
+        rtT.anchorMin = anchorMin;
+        rtT.anchorMax = anchorMax;
+        rtT.pivot = pivote;
+        rtT.anchoredPosition = posicion;
+        if (tam != Vector2.zero) rtT.sizeDelta = tam;
+        else { rtT.offsetMin = Vector2.zero; rtT.offsetMax = Vector2.zero; }
+
+        TextMeshProUGUI t = goT.AddComponent<TextMeshProUGUI>();
+        t.text = nombre;
+        t.fontSize = 18f;
+        t.fontStyle = FontStyles.Bold;
+        t.alignment = TextAlignmentOptions.Center;
+        t.color = Color.white;
+        t.raycastTarget = false;
+    }
+
+    // ---------- Mostrar / ocultar ----------
 
     void Mostrar()
     {
@@ -170,6 +245,7 @@ public class BarraVidaJefeUI : MonoBehaviour
         else pctRetraso = p;
         retraso.fillAmount = pctRetraso;
 
-        relleno.color = vida.Fase >= 3 ? colorFase3 : (vida.Fase == 2 ? colorFase2 : colorFase1);
+        int fase = vida.Fase;
+        relleno.color = fase >= 4 ? colorFase4 : (fase == 3 ? colorFase3 : (fase == 2 ? colorFase2 : colorFase1));
     }
 }

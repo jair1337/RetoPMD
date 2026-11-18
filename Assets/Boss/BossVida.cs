@@ -18,6 +18,8 @@ public class BossVida : MonoBehaviour, IDanable
     [Header("Fases")]
     [Range(0f, 1f)] public float umbralFase2 = 0.66f;
     [Range(0f, 1f)] public float umbralFase3 = 0.33f;
+    [Tooltip("Última fase: se activa cuando la vida baja de este porcentaje.")]
+    [Range(0f, 1f)] public float umbralFase4 = 0.1f;
 
     [Header("Feedback")]
     public Color colorGolpe = new Color(1f, 0.5f, 0.5f, 1f);
@@ -71,7 +73,7 @@ public class BossVida : MonoBehaviour, IDanable
         VidaActual = Mathf.Max(0, VidaActual - dano);
         if (barra != null) barra.value = VidaActual;
 
-        int nueva = Porcentaje > umbralFase2 ? 1 : (Porcentaje > umbralFase3 ? 2 : 3);
+        int nueva = Porcentaje > umbralFase2 ? 1 : (Porcentaje > umbralFase3 ? 2 : (Porcentaje > umbralFase4 ? 3 : 4));
         if (nueva != Fase)
         {
             Fase = nueva;
